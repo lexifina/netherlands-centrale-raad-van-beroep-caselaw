@@ -9,10 +9,14 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2000:AE8618"
-published_in: ["Rechtspraak.nl", "RSV 2000/226 met annotatie van A.J.V. Bockting", "USZ 2000/275 met annotatie van A. van Eijs, Universiteit Maastricht."]
+published_in: ["Rechtspraak.nl", "RSV 2000/226 met annotatie van A.J.V. Bockting", "USZ 2000/275 met annotatie van A. van Eijs"]
 ---
 
 # ECLI:NL:CRVB:2000:AE8618 Centrale Raad van Beroep , 08-08-2000 / 97/7292 AAW
+
+## Inhoudsindicatie
+
+Aan het oordeel van de door de Raad ingeschakelde deskundigen wordt doorslaggevende betekenis toegekend. Deze onafhankelijke en onpartijdige deskundigen hebben hun oordeel gebaseerd op eigen onderzoek van de betrokkene, de in het dossier aanwezige op betrokkene betrekking hebbende stukken, informatie van de behandelende sector en de anamnese van betrokkene. Op de datum in geding kon betrokkene de aan haar voorgehouden functies niet vervullen. Daarbij wordt aangetekend dat het advies van de deskundigen niet louter is gebaseerd op de klachten van betrokkene, maar door de deskundigen afdoende medisch is geobjectiveerd. Het enkele feit dat de aard van de ziekte of het gebrek niet eenduidig kan worden aangewezen staat aan deze conclusie niet in de weg.
 
 ## Uitspraak
 
@@ -32,7 +36,7 @@ I. ONTSTAAN EN LOOP VAN HET GEDING
 
 Met ingang van 1 maart 1997 is de Organisatiewet sociale verzekeringen 1997 in werking getreden. Ingevolge de Invoeringswet Organisatiewet sociale verzekeringen 1997 treedt het Landelijk instituut sociale verzekeringen (Lisv) in de plaats van de betrokken bedrijfsvereniging. In het onderhavige geval is het Lisv in de plaats getreden van de Bedrijfsvereniging voor Detailhandel, Ambachten en Huisvrouwen. In deze uitspraak wordt onder gedaagde tevens verstaan het bestuur van deze bedrijfsvereniging.
 
-Bij besluit van 11 januari 1996 heeft gedaagde de uitkering van appellante ingevolge de Algemene Arbeidsongeschiktheidswet (AAW), welke laatstelijk werd berekend naar een mate van arbeidsongeschiktheid van 80 tot 100%, met ingang van 13 januari 1996 ingetrokken, onder overweging dat de mate van appellantes arbeidsongeschiktheid met ingang van die datum minder dan 25% was.
+Bij besluit van 11 januari 1996 heeft gedaagde de uitkering van appellante ingevolge de Algemene Arbeidsongeschikt-heidswet (AAW), welke laatstelijk werd berekend naar een mate van arbeidsongeschiktheid van 80 tot 100%, met ingang van 13 januari 1996 ingetrokken, onder overweging dat de mate van appellantes arbeidsongeschiktheid met ingang van die datum minder dan 25% was.
 
 De rechtbank te 's-Hertogenbosch heeft bij uitspraak van 18 juli 1997 het beroep tegen dat besluit ongegrond verklaard. Naar die uitspraak wordt hierbij verwezen.
 
@@ -58,7 +62,9 @@ Gedaagde heeft daarop gereageerd.
 
 Bij brief gedateerd 8 juni 2000 heeft het Adviespunt Handicap en Recht aan de Raad laten weten dat
 
-M.G. van der Linde-de Jager, als sociaal raadsvrouw werkzaam bij genoemd Adviespunt, als opvolgend gemachtigde van appellante is aangetreden.
+M.G. van der Linde-de Jager, als sociaal raadsvrouw werkzaam bij genoemd Adviespunt, als opvolgend gemach-
+
+tigde van appellante is aangetreden.
 
 Bij brief van 29 juni 2000 is namens appellante op het verslag van Van Borssum Waalkes, en de reactie daarop van gedaagde, gereageerd.
 
@@ -66,7 +72,7 @@ Het geding is behandeld ter zitting van de Raad van 11 juli 2000, waar appellant
 
 II. MOTIVERING
 
-Appellante, geboren [in] 1957, heeft in maart 1980 een melding AAW gedaan wegens in maart 1979 ingetreden arbeidsongeschiktheid. In het aanvraagformulier AAW geeft zij als klachten aan een enorme slaapbehoefte, gebrek aan concentratievermogen, vergeetachtigheid, vermoeidheid, black outs en hyperventilatie. Aan appellante is vervolgens per 15 maart 1979 een AAW-uitkering toegekend, berekend naar een mate van arbeidsongeschiktheid van 80 tot 100%.
+Appellante, geboren op [datum] 1957, heeft in maart 1980 een melding AAW gedaan wegens in maart 1979 ingetreden arbeidsongeschiktheid. In het aanvraagformulier AAW geeft zij als klachten aan een enorme slaapbehoefte, gebrek aan concentratievermogen, vergeetachtigheid, vermoeidheid, black outs en hyperventilatie. Aan appellante is vervolgens per 15 maart 1979 een AAW-uitkering toegekend, berekend naar een mate van arbeidsongeschiktheid van 80 tot 100%.
 
 In het kader van de toepassing van de Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen heeft gedaagde appellantes mate van arbeidsongeschiktheid aan een herbeoordeling onderworpen. De verzekeringsarts Kruiswijk stelt in zijn rapportage gedateerd 17 februari 1995 als diagnose 'vermoeidheidssyndroom e causa ignota'. Kruiswijk acht appellante geschikt voor licht lichamelijk werk dat psychisch niet al te stresserend is en waarvan het tempo niet al te hoog ligt. De arbeidsdeskundige Rötscheid selecteert op grondslag van het door de verzekeringsgenees-kundige opgestelde belastbaarheidspatroon geschikt te achten functies, waarna, na afzetting van de mediane loon-waarde van de drie hoogst beloonde functies tegen het maatmaninkomen van appellante, een arbeidsongeschiktheids-percentage van 0 resulteert.
 
