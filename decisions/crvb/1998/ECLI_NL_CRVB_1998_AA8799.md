@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:1998:AA8799"
-published_in: ["Rechtspraak.nl", "AB 1999, 352", "RSV 1999/38", "JB 1998/285 met annotatie van AWH", "USZ 1998/319"]
+published_in: ["Rechtspraak.nl", "AB 1999, 352", "RSV 1999/38", "JB 1998/285 met annotatie van prof. mr. A.W. Heringa", "USZ 1998/319"]
 ---
 
 # ECLI:NL:CRVB:1998:AA8799 Centrale Raad van Beroep , 04-11-1998 / 96/9963 ZFW, 97/4591 ZFW
