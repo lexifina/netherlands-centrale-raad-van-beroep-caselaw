@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2000:AA8249"
-published_in: ["Rechtspraak.nl", "RSV 2001, 19", "USZ 2000/293 met annotatie van MD"]
+published_in: ["Rechtspraak.nl", "RSV 2001, 19", "USZ 2000/293 met annotatie van M. Driessen"]
 cites_law: ["netherlands/national/acts/algemene-nabestaandenwet/art-014.md", "netherlands/national/acts/algemene-nabestaandenwet/art-066a.md"]
 ---
 
