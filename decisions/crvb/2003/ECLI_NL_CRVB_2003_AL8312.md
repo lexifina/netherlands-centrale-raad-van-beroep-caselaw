@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2003:AL8312"
-published_in: ["Rechtspraak.nl", "RSV 2003, 304", "JB 2003/348 met annotatie van AMLJ"]
+published_in: ["Rechtspraak.nl", "RSV 2003, 304", "JB 2003/348 met annotatie van A.M.L. Jansen"]
 ---
 
 # ECLI:NL:CRVB:2003:AL8312 Centrale Raad van Beroep , 25-09-2003 / 01/100 CSV
