@@ -1,0 +1,79 @@
+---
+ecli: "ECLI:NL:CRVB:2005:AS3256"
+court: "Centrale Raad van Beroep"
+court_code: "CRVB"
+docket: "03/4666 WUBO"
+decided: "2005-01-13"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2005:AS3256"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CRVB:2005:AS3256 Centrale Raad van Beroep , 13-01-2005 / 03/4666 WUBO
+
+## Inhoudsindicatie
+
+Is het verzoek van betrokkene, zoon van een moeder van zigeunerafkomst en een vader die woonwagenbewoner was, tot erkenning als burger-oorlogsslachtoffer terecht afgewezen omdat onvoldoende is aangetoond dan wel aannemelijk gemaakt dat betrokkene is getroffen door oorlogsgeweld?
+
+## Uitspraak
+
+03/4666 WUBO
+
+U I T S P R A A K
+
+in het geding tussen:
+
+[eiser], wonende te [woonplaats], eiser,
+
+en
+
+de Raadskamer WUBO van de Pensioen- en Uitkeringsraad, verweerster.
+
+I. ONTSTAAN EN LOOP VAN HET GEDING
+
+Onder dagtekening 27 augustus 2003, kenmerk JZ/60/2003/544, heeft verweerster ten aanzien van eiser een besluit genomen ter uitvoering van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (hierna: de Wet).
+
+Tegen dit besluit heeft mr. J.C.M. van Berkel, advocaat te Heerlen, als gemachtigde van eiser bij de Raad beroep ingesteld. In een aanvullend beroepschrift, met bijlagen, is uiteengezet waarom eiser zich met het bestreden besluit niet kan verenigen.
+
+Verweerster heeft een verweerschrift ingediend. Namens eiser is daarna nog een stuk ingezonden.
+
+Het geding is, gevoegd met het geding tussen eiser en de Raadskamer WUV van de Pensioen- en Uitkeringsraad en een aantal soortgelijke gedingen van broers en zusters van eiser, behandeld ter zitting van de Raad op 2 december 2004.
+
+Aldaar is namens eiser verschenen mr. Van Berkel voornoemd, terwijl verweerster zich heeft doen vertegenwoordigen door mr. T.R.A. Dircke, werkzaam bij de Pensioen- en Uitkeringsraad.
+
+II. MOTIVERING
+
+Bij het bestreden, na bezwaar genomen besluit heeft verweerster de aanvraag van eiser, geboren in 1941 als zoon van een moeder van zigeunerafkomst en een vader die woonwagenbewoner was, om te worden erkend als burger-oorlogsslachtoffer in de zin van de Wet afgewezen, op de grond dat onvoldoende is aangetoond dan wel aannemelijk gemaakt dat eiser is getroffen door oorlogsgeweld in de zin van de Wet. Verweerster heeft daartoe in het bijzonder overwogen, dat niet kan worden aanvaard dat eiser in een reële onderduiksituatie heeft verkeerd op grond van zijn afkomst, nu blijkens de beschrijvingen ook ná de razzia’s van 16 mei 1944 sprake was deelname aan het openbare leven. Voorts heeft verweerster de directe betrokkenheid van eiser bij de ontploffing van een kettingbom tijdens een voedseltocht onvoldoende aannemelijk geoordeeld.
+
+De Raad kan zich met dit standpunt van verweerster verenigen.
+
+Wat betreft de gestelde onderduik verwijst de Raad naar hetgeen hij terzake heeft overwogen in zijn uitspraak van heden in het geding tussen eiser en de Raadskamer WUV van de Pensioen- en Uitkeringsraad, nr. 03/4668 WUV.
+
+Ten aanzien van de gestelde ontploffing van een kettingbom, die volgens de beschrijving in een weiland viel, is niet kunnen blijken van een zodanige nabijheid of van zodanige gevolgen dat van een directe betrokkenheid in de zin van artikel 2 van de Wet gesproken zou kunnen worden.
+
+Gezien het vorenstaande bestaat voor vernietiging van het bestreden besluit geen grond.
+
+De Raad acht voorts geen termen aanwezig om toepassing te geven aan het bepaalde in artikel 8:75 van de Algemene wet bestuursrecht inzake een vergoeding van proceskosten.
+
+Beslist wordt derhalve als volgt.
+
+III. BESLISSING
+
+De Centrale Raad van Beroep,
+
+Recht doende:
+
+Verklaart het beroep ongegrond.
+
+Aldus gegeven door mr. C.G. Kasdorp als voorzitter en mr. G.L.M.J. Stevens en mr. H.R. Geerling-Brouwer als leden, in tegenwoordigheid van mr. A.D. van Dissel-Singhal als griffier, en uitgesproken in het openbaar op 13 januari 2005.
+
+(get.) C.G. Kasdorp.
+
+(get.) A.D. van Dissel-Singhal.
+
+HD
+
+04.01
