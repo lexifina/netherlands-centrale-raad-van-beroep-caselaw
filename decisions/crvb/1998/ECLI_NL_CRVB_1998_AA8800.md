@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:1998:AA8800"
-published_in: ["Rechtspraak.nl", "RSV 1999, 22", "RZA 1998, 166", "USZ 1998/300 met annotatie van A.P. van der Mei, universitair docent Europees Recht"]
+published_in: ["Rechtspraak.nl", "RSV 1999, 22", "RZA 1998, 166", "USZ 1998/300 met annotatie van A.P. van der Mei"]
 ---
 
 # ECLI:NL:CRVB:1998:AA8800 Centrale Raad van Beroep , 05-10-1998 / 96/10054 ZFW
