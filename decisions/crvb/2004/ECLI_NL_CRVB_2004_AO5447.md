@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2004:AO5447"
-published_in: ["Rechtspraak.nl", "RSV 2004, 154", "USZ 2004/190"]
+published_in: ["Rechtspraak.nl", "RSV 2004, 154", "RSV 2004, 185", "RZA 2004, 68", "USZ 2004/190"]
 ---
 
 # ECLI:NL:CRVB:2004:AO5447 Centrale Raad van Beroep , 03-03-2004 / 02/4366 ZFW
