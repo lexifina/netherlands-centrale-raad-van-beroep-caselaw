@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2000:AA7653"
-published_in: ["Rechtspraak.nl", "AB 2001, 49 met annotatie van H.E. Bröring", "RSV 2000, 250", "RZA 2001, 30", "JB 2000/333", "USZ 2000/294 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "AB 2001, 49 met annotatie van H.E. Bröring", "RSV 2000, 250", "RZA 2001, 30", "JB 2000/333", "USZ 2000/294"]
 cites_law: ["netherlands/national/acts/awb/art-01-002.md", "netherlands/national/acts/awb/art-03-002.md"]
 ---
 
