@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:1997:ZB6868"
-published_in: ["Rechtspraak.nl", "RSV 1997, 190", "RZA 1997, 98", "USZ 1997/98 met annotatie van JPMZ"]
+published_in: ["Rechtspraak.nl", "RSV 1997, 190", "RZA 1997, 98", "USZ 1997/98 met annotatie van J.P.M. van Zijl"]
 ---
 
 # ECLI:NL:CRVB:1997:ZB6868 Centrale Raad van Beroep , 14-03-1997 / 96/2946 ZFW;96/2947 AWBZ
