@@ -7,7 +7,7 @@ decided: "2003-08-05"
 published: "2013-04-04"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Bestuursrecht"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2003:AI1181"
 published_in: ["Rechtspraak.nl", "RSV 2003, 259", "JABW 2003, 201", "Gst. 2003, 202 met annotatie van W.P.F. de Bruijn", "USZ 2003/271"]
 ---
