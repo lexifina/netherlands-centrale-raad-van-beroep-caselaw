@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2004:AR8901"
-published_in: ["Rechtspraak.nl", "RSV 2005, 69", "RZA 2005, 40", "USZ 2005/77 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "RSV 2005, 69", "RZA 2005, 40", "USZ 2005/77"]
 ---
 
 # ECLI:NL:CRVB:2004:AR8901 Centrale Raad van Beroep , 08-12-2004 / 01/3588 ZFW
