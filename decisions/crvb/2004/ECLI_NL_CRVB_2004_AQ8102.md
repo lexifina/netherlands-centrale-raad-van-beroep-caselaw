@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2004:AQ8102"
-published_in: ["Rechtspraak.nl", "RSV 2004, 332", "USZ 2004/331 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "RSV 2004, 332", "USZ 2004/331"]
 ---
 
 # ECLI:NL:CRVB:2004:AQ8102 Centrale Raad van Beroep , 17-08-2004 / 02/4600 ZFW
