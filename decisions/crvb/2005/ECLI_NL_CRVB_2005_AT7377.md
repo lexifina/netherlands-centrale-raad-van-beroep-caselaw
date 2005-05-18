@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2005:AT7377"
-published_in: ["Rechtspraak.nl", "RSV 2005, 245", "USZ 2005/292 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "RSV 2005, 245", "USZ 2005/292"]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-629.md", "netherlands/national/acts/werkloosheidswet/art-016.md", "netherlands/national/acts/werkloosheidswet/art-024.md"]
 ---
 
