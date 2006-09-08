@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2006:AY8221"
-published_in: ["Rechtspraak.nl", "RZA 2007, 58", "RSV 2006, 368", "AB 2006, 417 met annotatie van F.J.L. Pennings", "SR 2006, 72 met annotatie van mr. M.J.A.C.. Driessen", "USZ 2006/323 met annotatie van Malva Driessen", "GJ 2007/14 met annotatie van mw. mr. drs. R.J. Visser"]
+published_in: ["Rechtspraak.nl", "RZA 2007, 58", "RSV 2006, 368", "AB 2006, 417 met annotatie van F.J.L. Pennings", "SR 2006, 72 met annotatie van M.J.A.C. Driessen", "USZ 2006/323 met annotatie van Malva Driessen", "GJ 2007/14 met annotatie van Mr. drs. R.J. Visser"]
 ---
 
 # ECLI:NL:CRVB:2006:AY8221 Centrale Raad van Beroep , 08-09-2006 / 02-6144 AWBZ
