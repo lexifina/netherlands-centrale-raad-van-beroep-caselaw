@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2007:BC0361"
-published_in: ["Rechtspraak.nl", "RSV 2008/50", "USZ 2008/29 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "RSV 2008/50", "USZ 2008/29"]
 ---
 
 # ECLI:NL:CRVB:2007:BC0361 Centrale Raad van Beroep , 14-12-2007 / 05-3825 WAO
