@@ -30,7 +30,8 @@ U I T S P R A A K
 
 op het hoger beroep van:
 
-[appellant] (hierna: appellant),
+[appellant]
+, wonende te [woonplaats] (hierna: appellant),
 
 tegen de uitspraak van de rechtbank Zwolle-Lelystad van 4 november 2005, 05/141 (hierna: aangevallen uitspraak),
 
@@ -44,15 +45,17 @@ de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (hierna
 
 Datum uitspraak: 22 januari 2008
 
-I. PROCESVERLOOP
+I
+PROCESVERLOOP
 
 Appellant heeft hoger beroep ingesteld.
 
 Het Uwv heeft een verweerschrift ingediend.
 
-Het onderzoek ter zitting heeft plaatsgevonden op 11 december 2007. Appellant is daarbij verschenen, bijgestaan door zijn dochter F. Alebade. Het Uwv heeft zich doen vertegenwoordigen door R.S. van ’t Oor.
+Het onderzoek ter zitting heeft plaatsgevonden op 11 december 2007. Appellant is daarbij verschenen, bijgestaan door zijn dochter [naam dochter] . Het Uwv heeft zich doen vertegenwoordigen door R.S. van ’t Oor.
 
-II. OVERWEGINGEN
+II
+OVERWEGINGEN
 
 Appellant, geboren in 1957, was werkzaam als timmerman en versjouwer van pallets. Op 18 augustus 2003 is hij uitgevallen voor zijn werkzaamheden, onder meer in verband met hartklachten, diabetes en rugklachten. Nadat appellant is onderzocht door een voor het Uwv werkzame verzekeringsarts is met betrekking tot zijn beperkingen een zogenoemde Functionele Mogelijkheden Lijst (FML) opgesteld. Aan de hand van die FML heeft een voor het Uwv werkzame arbeidsdeskundige geconcludeerd dat appellant ongeschikt was voor de laatst verrichte arbeid. Aan de hand van het zogenoemde Claimbeoordelings- en Borgings Systeem (CBBS) heeft de arbeidsdeskundige vervolgens een aantal functies geselecteerd die appellant kon verrichten en waarmee hij een inkomensverlies van minder dan 15% zou lijden. Dat leidde tot het primaire besluit van 10 september 2004 waarbij werd vastgesteld dat appellant per 16 augustus 2004 geen recht had op een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering (WAO). Appellant heeft tegen dat besluit bezwaar gemaakt en heeft informatie uit de behandelende sector ingebracht.
 
@@ -76,7 +79,8 @@ De Raad ziet geen aanleiding om het Uwv te veroordelen in de proceskosten van ap
 
 Derhalve dient beslist te worden als volgt.
 
-III. BESLISSING
+III
+BESLISSING
 
 De Centrale Raad van Beroep;
 
