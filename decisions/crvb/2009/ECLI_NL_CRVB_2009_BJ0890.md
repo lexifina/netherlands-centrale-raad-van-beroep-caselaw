@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2009:BJ0890"
-published_in: ["Rechtspraak.nl", "JWWB 2009, 184", "USZ 2009/267 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "JWWB 2009, 184", "USZ 2009/267"]
 cites_law: ["netherlands/national/acts/awb/art-03-041.md", "netherlands/national/acts/awb/art-06-007.md", "netherlands/national/acts/awb/art-06-008.md"]
 ---
 
