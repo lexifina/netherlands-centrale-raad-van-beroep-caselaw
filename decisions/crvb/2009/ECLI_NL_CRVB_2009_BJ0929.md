@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2009:BJ0929"
-published_in: ["Rechtspraak.nl", "RSV 2009/204", "JWWB 2009, 177", "AB 2009, 255 met annotatie van Redactie", "NJB 2009, 1494", "BA 2009/189", "ABkort 2009/282", "JB 2009/204 met annotatie van A. Bots", "JIN 2009/747", "USZ 2009/239", "JIN 2009/772"]
+published_in: ["Rechtspraak.nl", "RSV 2009/204", "JWWB 2009, 177", "AB 2009, 255", "NJB 2009, 1494", "BA 2009/189", "ABkort 2009/282", "JB 2009/204 met annotatie van A. Bots", "JIN 2009/747", "USZ 2009/239", "JIN 2009/772"]
 cites_law: ["netherlands/national/acts/awb/art-03-002.md", "netherlands/national/acts/awb/art-04-005.md"]
 ---
 
