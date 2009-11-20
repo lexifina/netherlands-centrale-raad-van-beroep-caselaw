@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2009:BK5210"
-published_in: ["Rechtspraak.nl", "RSV 2010/22", "AB 2010, 59 met annotatie van H.E. Bröring", "NJB 2009, 2273", "JB 2010/18", "USZ 2010/20 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "RSV 2010/22", "AB 2010, 59 met annotatie van H.E. Bröring", "NJB 2009, 2273", "JB 2010/18", "USZ 2010/20"]
 cites_law: ["netherlands/national/acts/wet-studiefinanciering-2000/art-03-009.md", "netherlands/national/acts/wet-studiefinanciering-2000/art-03-013.md"]
 ---
 
