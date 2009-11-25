@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2009:BK4527"
-published_in: ["Rechtspraak.nl", "RSV 2010/60", "USZ 2010/4 met annotatie van Red."]
+published_in: ["Rechtspraak.nl", "RSV 2010/60", "USZ 2010/4"]
 cites_law: ["netherlands/national/acts/awb/art-02-001.md", "netherlands/national/acts/awb/art-06-017.md"]
 ---
 
