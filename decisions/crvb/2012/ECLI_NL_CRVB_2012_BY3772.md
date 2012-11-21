@@ -1,0 +1,126 @@
+---
+ecli: "ECLI:NL:CRVB:2012:BY3772"
+court: "Centrale Raad van Beroep"
+court_code: "CRVB"
+docket: "11-554 WW"
+decided: "2012-11-21"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2012:BY3772"
+published_in: ["Rechtspraak.nl", "NJB 2012/2494", "AB 2013/27 met annotatie van R. Stijnen", "RSV 2013/52", "ABkort 2012/390", "JB 2013/32", "USZ 2013/8 met annotatie van M. Koolhoven", "NTFR 2012/2862 met annotatie van Mr. M. HENDRIKS"]
+cites_law: ["netherlands/national/acts/werkloosheidswet/art-025.md", "netherlands/national/acts/werkloosheidswet/art-027a.md"]
+---
+
+# ECLI:NL:CRVB:2012:BY3772 Centrale Raad van Beroep , 21-11-2012 / 11-554 WW
+
+## Inhoudsindicatie
+
+Schending inlichtingenverplichting. terugvordering van WW-uitkering en ZW-uitkering en oplegging boete.
+
+De Raad overweegt ten aanzien van de boete het volgende.(…) Art. 25 van de WW verplicht de werknemer op verzoek of onverwijld uit eigen beweging aan het Uwv alle feiten en omstandigheden mede te delen, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, het geldend maken van het recht op uitkering, de hoogte of de duur van de uitkering, of op het bedrag van de uitkering dat aan de werknemer wordt betaald. De inlichtingenverplichting is voor het Uwv een noodzakelijk instrument om de rechtmatigheid van de uitkering te kunnen vaststellen. Voor zover de werknemer is verzocht om inlichtingen te verstrekken ter vaststelling van de rechtmatigheid van de uitkering, kan deze zich niet met een beroep op de waarborgen van het EVRM of het IVBPR aan zijn inlichtingenverplichting onttrekken. Voor zover het een op grond van art. 27a van de WW op te leggen boete betreft wegens schending van de inlichtingenverplichting dienen de vaststelling, het boetebesluit en de toetsing daarvan te voldoen aan de eisen die art. 6, eerste lid, van het EVRM stelt in geval van een “criminal charge”. Daartoe behoren de eerbiediging van het recht van de beschuldigde om te zwijgen en van diens recht om zichzelf niet te behoeven incrimineren (vgl. HR 27 juni 2001, LJN AB2314, en 6 juni 2008, LJN BD3163, en de arresten van het EHRM 17 december 1996 (Saunders tegen Verenigd Koninkrijk, BNB 1997, 254), 3 mei 2001 (J.B. tegen Zwitserland, EHRC 2001, 45 en BNB 2002, 26) en 5 april 2012 (Chambaz tegen Zwitserland, EHRC 2012, 135 en FED 2012,77).
+
+Appellant kon niet uitsluiten dat van de door hem aan de fraude-inspecteur verstrekte informatie ook gebruik zou kunnen worden gemaakt voor het opleggen van een boete. Met name gelet op de hiervoor genoemde arresten in de zaken J.B. (rechtsoverweging 64) en Chambaz (rechtsoverwegingen 52 tot en met 54) tegen Zwitserland, heeft appellant zich terecht gekeerd tegen het gebruik van de door hem op 21 november 2008 afgelegde verklaring waar het de vaststelling en de toetsing van de opgelegde boete betreft. Alvorens appellant deze verklaring aflegde heeft de fraude-inspecteur appellant er immers uitdrukkelijk op gewezen dat hij verplicht was de gestelde vragen te beantwoorden. Het bewijsmateriaal in die verklaring is daarmee onder druk en niet onafhankelijk van de wil van appellant verkregen en moet daarom buiten beschouwing blijven.
+
+Het Uwv heeft ter zitting erkend dat de boete in overwegende mate op de verklaring van 21 november 2008 is gebaseerd. Bij de toetsing van de boete dienen echter alleen de overige onderzoeksgegevens in aanmerking te worden genomen, omdat deze niet in strijd met art. 6, eerste lid, van het EVRM zijn verkregen. Uit die gegevens volgt slechts dat appellant op 16 oktober 2008 en op 12 november 2008 werkend in het bedrijf van zijn neef is gezien. Van het niet onverwijld eigener beweging aan het Uwv melding maken van de werkzaamheden op die dagen is appellant niet alleen objectief maar ook subjectief een verwijt te maken. Het Uwv was daarom op grond van art. 27a van de WW wel gehouden appellant een boete op te leggen maar de met het bestreden besluit opgelegde boete is geen evenredige sanctie. Voor de nadere vaststelling van de hoogte van de boete is van belang dat appellant niet eerder een boete is opgelegd en dat het niet melden van werkzaamheden op twee dagen appellant kan worden verweten. Gelet op de omstandigheden waaronder de overtreding is begaan en op de overige ten aanzien van appellant gebleken omstandigheden acht de Raad een appellant op te leggen boete ter hoogte van het in art. 2, eerste lid, van het Boetebesluit socialezekerheidswetten genoemde bedrag van € 52,- evenredig.
+
+## Uitspraak
+
+11/554 WW
+
+Centrale Raad van Beroep
+
+Meervoudige kamer
+
+Uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Zwolle-Lelystad van 21 december 2010, 09/1105 (aangevallen uitspraak)
+
+Partijen:
+
+[A. te B.] (appellant)
+
+de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (Uwv)
+
+Datum uitspraak: 21 november 2012
+
+PROCESVERLOOP
+
+Namens appellant heeft mr. G.J.A.M. Gloudi, advocaat, hoger beroep ingesteld.
+
+Het Uwv heeft een verweerschrift ingediend en desgevraagd zijn standpunt nader toegelicht.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 5 september 2012. Appellant is verschenen, bijgestaan door mr. Gloudi. Namens het Uwv is drs. H. ten Brinke verschenen.
+
+OVERWEGINGEN
+
+1.1. Het Uwv heeft vastgesteld dat appellant sinds 10 juni 2008 recht heeft op een uitkering op grond van de Werkloosheidswet (WW), gebaseerd op een gemiddeld arbeidsurenverlies van 38 per week. Appellant heeft zich met ingang van 4 augustus 2008 ziekgemeld. Het Uwv heeft in verband met de ziekte de WW-uitkering dertien weken doorbetaald, waarbij appellant is gewezen op de samenloop van de op hem rustende verplichtingen uit de WW en de Ziektewet (ZW). Per 3 november 2008 is de WW-uitkering beëindigd en is appellant in aanmerking gebracht voor een ZW-uitkering.
+
+1.2. Het Uwv is in oktober 2008 een onderzoek gestart naar appellant. In dat verband is een bezoek gebracht aan zijn huisadres en zijn observaties verricht bij onder meer een autobedrijf van de neef van appellant. Op 21 november 2008 heeft appellant een gesprek gehad met een fraude-inspecteur van het Uwv. De bevindingen van het onderzoek zijn neergelegd in onderzoeksrapporten van 23 oktober 2008 en 26 november 2008.
+
+1.3. Naar aanleiding van het onderzoek heeft het Uwv bij besluit van 5 februari 2009 de WW-uitkering van appellant herzien met ingang van 1 augustus 2008 en de volgens het Uwv onverschuldigd betaalde WW-uitkering over de periode van 1 augustus 2008 tot en met 3 november 2008 van appellant teruggevorderd. Bij een tweede besluit van dezelfde datum heeft het Uwv vastgesteld dat appellant geen recht had op ziekengeld vanaf 3 november 2008, omdat hij vanaf 1 augustus 2008 volledig werkzaam was geweest voor het autobedrijf van zijn neef en dus geen recht had op een WW-uitkering en op een ZW-uitkering. Bij een derde besluit van 5 februari 2009 is van appellant hetgeen over de periode van 3 november 2008 tot en met 25 januari 2009 volgens het Uwv onverschuldigd aan ZW-uitkering is betaald van appellant teruggevorderd.
+
+1.4. Bij brief van 5 februari 2009 heeft het Uwv aan appellant het voornemen kenbaar gemaakt hem in verband met schending van de mededelingsverplichting een boete van € 1.040,- op te leggen. Appellant heeft telefonisch te kennen gegeven zich daar niet mee te kunnen verenigen. Bij besluit van 9 februari 2009 heeft het Uwv de voorgenomen boete aangepast en appellant een boete van € 670,- opgelegd.
+
+2. Appellant heeft bezwaar gemaakt tegen de besluiten van 5 en 9 februari 2009. Bij besluit van 8 juni 2009 (bestreden besluit) heeft het Uwv die bezwaren ongegrond verklaard. Volgens het Uwv is op grond van artikel 20 van de WW in verband met de werkzaamheden van appellant het recht op WW-uitkering over de week van 28 juli 2008 tot en met 3 augustus 2008 voor acht uur geëindigd en vanaf 4 augustus 2008 geheel geëindigd. Hierdoor bestaat er volgens het Uwv voor een ZW-uitkering geen verzekering meer en wordt ook de ZW-uitkering met terugwerkende kracht tot 3 november 2008 ingetrokken. Voorts heeft het Uwv onderscheidenlijk € 6.651,80 aan WW-uitkering en € 4.923,39 aan ZW-uitkering van appellant teruggevorderd en de uitsluitend op benadeling wegens onverschuldigd betaalde WW-uitkering berekende boete gehandhaafd op € 670,-.
+
+3. Appellant heeft beroep ingesteld tegen het bestreden besluit. Bij de aangevallen uitspraak heeft de rechtbank dat beroep ongegrond verklaard. De rechtbank heeft geoordeeld dat het op basis van de eigen verklaring van 21 november 2008 voldoende aannemelijk was dat appellant met ingang van 1 augustus 2008 frequent op het autobedrijf aanwezig was en klussen deed. De rechtbank heeft het standpunt van het Uwv onderschreven dat op basis van die verklaring kan worden aangenomen dat appellant gedurende een normale werkweek werkzaamheden bij zijn neef verrichtte. Naar het oordeel van de rechtbank is het recht op WW-uitkering met ingang van 4 augustus 2008 geëindigd, zodat appellant vanaf die dag ook niet verzekerd was voor de ZW. De rechtbank heeft het beroep op artikel 46, eerste lid, aanhef en onder b, van de ZW verworpen en de terugvordering van WW-uitkering en ZW-uitkering in stand gelaten. Ten aanzien van de boete-oplegging heeft de rechtbank geoordeeld dat uit het rapport van een telefoongesprek van 9 februari 2009 niet blijkt dat zich toen de situatie heeft voorgedaan dat appellant op zijn zwijgrecht had moeten worden gewezen. De boete is volgens de rechtbank terecht opgelegd.
+
+4. In hoger beroep heeft appellant gesteld dat alle elementen om een arbeidsovereenkomst aan te nemen hebben ontbroken in de relatie met zijn neef en dat de schatting dat hij een normale werkweek werkte onjuist is. Er was niet de intentie om reguliere arbeid te verrichten, maar alleen de behoefte om zich nuttig te maken en om uit een depressie te geraken. Er was geen sprake van een gezagsverhouding en hij had de vrije keus om wat te doen of niet. Onder verwijzing naar artikel 46, eerste lid, van de ZW stelt appellant dat hij in verband met de zogenoemde nawerking aanspraak op ziekengeld heeft behouden. Appellant heeft daarnaast gesteld dat de boete geheel dan wel voor het grootste deel  is gebaseerd op de verklaring die hij op 21 november 2008 heeft afgelegd. Volgens appellant had het Uwv hem vooraf moeten wijzen op zijn zwijgrecht. Omdat hij daaraan voorafgaand niet is gewezen op het recht om te zwijgen is appellant van mening dat het Uwv die verklaring niet had mogen gebruiken voor de boeteoplegging.
+
+5. In het verweerschrift heeft het Uwv zich op het standpunt gesteld dat het in het kader van de WW gaat om de werkzaamheden die zijn verricht en niet om de intentie waarmee dat zou zijn gebeurd. Mede naar aanleiding van een vraag van de Raad heeft het Uwv bij brief van 24 november 2011 nader het standpunt ingenomen dat recht op ziekengeld zou kunnen zijn ontstaan op grond van artikel 46 van de ZW indien er per 1 augustus 2008 geen sprake is van een nieuwe (doorlopende) ZW-verzekering. Volgens het Uwv is appellant echter met ingang van 1 augustus 2008 in het kader van een dienstverband gaan werken voor zijn neef en uit dien hoofde voor de ZW verzekerd, waardoor artikel 46 van de ZW niet van toepassing is en appellant geen recht op ziekengeld zou hebben gehad, omdat de werkgever bij ziekte het loon zou moeten doorbetalen op grond van artikel 7:629 van het Burgerlijk Wetboek (BW). Voor de onderbouwing daarvan heeft het Uwv verwezen naar het rechtsvermoeden van artikel 7:610a van het BW, nu appellant - naar het Uwv aanneemt: tegen beloning - gedurende meer dan drie opeenvolgende maanden wekelijks, dan wel gedurende tenminste twintig uur per maand arbeid heeft verricht. Volgens het Uwv is ook op basis van artikel 3 van de ZW sprake van verzekeringsplicht. Er is immers sprake van persoonlijke arbeidsverrichting, een verplichting tot loonbetaling en een gezagsverhouding.
+
+6. De Raad komt tot de volgende beoordeling.
+
+6.1. Appellant heeft op 21 november 2008 onder meer verklaard dat hij vanaf 1 augustus 2008 hele dagen aanwezig is geweest in het bedrijf van zijn neef, gedurende vijf dagen per week, vaak van ’s morgens 10 tot 16 à 17 uur, maar niet het exacte aantal uren te kunnen noemen. Tijdens zijn aanwezigheid verrichtte hij een reeks van activiteiten: toezicht houden op de werkplaats en het kantoor, stofzuigen van auto’s, schoonmaken van ruiten, poetsen van auto’s, vloeren dweilen, halen en brengen van auto’s, auto’s inrijden, accu’s halen en ‘dingen intikken, bijvoorbeeld een offerte maken’. Er is geen reden om te twijfelen aan de inhoud van deze verklaring. Volgens het onderzoeksrapport heeft appellant de verklaring ondertekend na doorlezing en controle of de bevindingen daarin goed zijn weergegeven. Op grond van de verklaring van 21 november 2008 is aannemelijk dat appellant vanaf 1 augustus 2008 vijf dagen per week aanwezig is geweest in het bedrijf van zijn neef en daar diverse werkzaamheden heeft verricht. Anders dan appellant heeft gesteld, kunnen de door hem in die verklaring genoemde werkzaamheden, zoals het halen en brengen van auto’s, het halen van accu’s, en het schoonmaken en poetsen van auto’s, wel op geld gewaardeerd worden. Dat appellant werkzaamheden heeft verricht uit de behoefte om zich nuttig te maken en om uit een depressie te geraken, doet daar verder niet aan af. Op grond van deze verklaring heeft het Uwv bij de beoordeling van de vraag of en in hoeverre nog recht bestond op WW-uitkering de omvang van de werkzaamheden van appellant kunnen schatten op een volledige werkweek vanaf 1 augustus 2008. Voor zover nog onzekerheid bestaat over de precieze omvang van de werkzaamheden van appellant, kan die onzekerheid niet ten voordele van appellant strekken, nu hij deze zelf heeft veroorzaakt door geen enkele opgave te doen van door hem gewerkte uren.
+
+6.2. Anders dan het Uwv in zijn brief van 24 november 2011 heeft gesteld, is er geen grond om aan te nemen dat appellant vanaf 1 augustus 2008 in dienstbetrekking arbeid heeft verricht. De stukken bieden geen grond om aan te nemen dat sprake is geweest van persoonlijke arbeidsverrichting, van een verplichting tot loonbetaling en van een gezagsverhouding, zoals het Uwv heeft gesteld. Dat sprake is geweest van verzekeringsplicht uit hoofde van een dienstbetrekking met de neef van appellant is dus onjuist. Het beroep op artikel 7:610a van het BW treft evenmin doel.
+
+6.3. Artikel 8, eerste lid, van de WW bepaalt dat een persoon wiens dienstbetrekking is geëindigd, de hoedanigheid van werknemer behoudt voor zover hij geen werkzaamheden verricht uit hoofde waarvan hij op grond van deze wet niet als werknemer wordt beschouwd. Op grond van artikel 20, eerste lid, aanhef en onder a, en tweede lid, van de WW eindigt het recht op uitkering voor zover de werknemer zijn hoedanigheid van werknemer verliest ter zake van het aantal uren dat hij werkzaamheden verricht uit hoofde waarvan hij niet als werknemer in de zin van de WW wordt beschouwd. Gelet hierop en op wat onder 6.1 en 6.2 is overwogen is het standpunt van het Uwv dat het recht op WW-uitkering over de week van 28 juli 2008 tot en met 3 augustus 2008 voor acht uur is geëindigd en vanaf 4 augustus 2008 geheel is geëindigd, juist.
+
+6.4. Wat de terugvordering van de WW-uitkering betreft is er geen grond om het oordeel van de rechtbank niet te volgen.
+
+6.5. Uit 6.1 tot en met 6.4 volgt dat het bestreden besluit over de herziening, de intrekking en de terugvordering van de WW-uitkering in stand moet blijven, hetgeen betekent dat het Uwv terecht een bedrag aan ten onrechte ontvangen WW-uitkering van € 6.651,80 van appellant heeft teruggevorderd.
+
+6.6. Uit 6.2 volgt dat het in overweging 5 weergegeven standpunt van het Uwv over de intrekking van de ZW-uitkering niet juist is. Dit betekent dat het bestreden besluit in zoverre niet op een deugdelijke motivering berust. Het Uwv heeft ter zitting verzocht om het geschil op dit punt finaal af te doen. Omdat niet aannemelijk is dat dit motiveringsgebrek kan worden hersteld, is herroeping van het besluit van 5 februari 2009 tot intrekking van de ZW-uitkering aangewezen. Daarmee vervalt ook de grondslag aan de terugvordering van ZW-uitkering. Het bestreden besluit, voor zover daarbij de intrekking en de terugvordering van ZW-uitkering zijn gehandhaafd, moet dan ook worden vernietigd en de twee besluiten van 5 februari 2009 die daarop betrekking hebben, moeten worden herroepen.
+
+6.7. In verband met de opgelegde boete is het volgende van belang.
+
+6.7.1. Op 16 oktober 2008 heeft een fraude-inspecteur van het Uwv in verband met een afspraak met de broer van appellant twee personen waargenomen die in de garage van appellants neef met een auto aan het werk waren, namelijk appellant en zijn neef. Diezelfde dag heeft een medewerker van het Centrum voor Werk en Inkomen met appellant gebeld op zijn 06-nummer. Deze medewerker kreeg toen “Car Cleaning” aan de lijn waarna appellant werd geroepen en de verbinding door “Car Cleaning” werd verbroken. Op 17 oktober 2008 heeft een fraude-inspecteur aan het huisadres van appellant zijn zoon en zijn echtgenote gesproken. De zoon vertelde dat zijn vader op de zaak was; volgens de echtgenote was hij een papier naar het bedrijf wegbrengen. De manager Inspectie en Opsporing van het Uwv heeft een fraudemelding opgemaakt en opdracht gegeven voor een fraude-onderzoek. In de periode van 4 tot en met 20 november 2008 zijn observaties verricht bij het autobedrijf van de neef van appellant en bij het woonadres van appellant. Volgens de verslaglegging van die observaties is op 5 november 2008 waargenomen dat appellant de garage binnen is gegaan en op 12 november 2008 dat hij een auto aan het stofzuigen was en met een groene Mercedes uit de garage vertrokken is. Verder is weg- en voorrijden van een aantal auto’s met onbekende personen beschreven. Op 20 november 2008 is appellant opgeroepen om op 21 november 2008 op het kantoor van het Uwv te Zwolle te verschijnen voor een gesprek met een fraude-inspecteur. Tijdens het gesprek heeft appellant de in 6.1 weergegeven verklaring afgelegd. Volgens de rapportage van de fraude-inspecteur is de reden voor het gesprek uitgelegd en is aangegeven dat appellant verplicht is te antwoorden op gestelde vragen. Ter zitting hebben partijen desgevraagd bevestigd dat voorafgaand aan dat gesprek appellant uitdrukkelijk is gewezen op de verplichting om antwoord te geven op de gestelde vragen. Appellant heeft daaraan nog toegevoegd dat gezegd werd dat zijn uitkering gestopt zou worden als hij geen antwoord zou geven en dat in dat gesprek, dat volgens hem zonder onderbreking drieënhalf uur heeft geduurd, ook over een boete is gesproken. Aan het slot van zijn rapport heeft de fraude-inspecteur het Uwv onder meer geadviseerd appellant te beboeten wegens schending van de inlichtingenplicht.
+
+6.7.2. Artikel 25 van de WW verplicht de werknemer op verzoek of onverwijld uit eigen beweging aan het Uwv alle feiten en omstandigheden mede te delen, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, het geldend maken van het recht op uitkering, de hoogte of de duur van de uitkering, of op het bedrag van de uitkering dat aan de werknemer wordt betaald. De inlichtingenverplichting is voor het Uwv een noodzakelijk instrument om de rechtmatigheid van de uitkering te kunnen vaststellen. Voor zover de werknemer is verzocht om inlichtingen te verstrekken ter vaststelling van de rechtmatigheid van de uitkering, kan deze zich niet met een beroep op de waarborgen van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) of het Internationaal Verdrag inzake Burgerrechten en Politieke Rechten aan zijn inlichtingenverplichting onttrekken. Voor zover het een op grond van artikel 27a van de WW op te leggen boete betreft wegens schending van de inlichtingenverplichting dienen de vaststelling, het boetebesluit en de toetsing daarvan te voldoen aan de eisen die artikel 6, eerste lid, van het EVRM stelt in geval van een “criminal charge”. Daartoe behoren de eerbiediging van het recht van de beschuldigde om te zwijgen en van diens recht om zichzelf niet te behoeven incrimineren [vgl. Hoge Raad 27 juni 2001, LJN AB2314, en 6 juni 2008, LJN BD3163, en de arresten van het Europees Hof voor de Rechten van de Mens 17 december 1996 (Saunders tegen Verenigd Koninkrijk, BNB 1997, 254), 3 mei 2001 (J.B. tegen Zwitserland, EHRC 2001, 45 en BNB 2002, 26) en 5 april 2012 (Chambaz tegen Zwitserland, EHRC 2012, 135 en FED 2012,77)].
+
+6.7.3. Appellant kon niet uitsluiten dat van de door hem aan de fraude-inspecteur verstrekte informatie ook gebruik zou kunnen worden gemaakt voor het opleggen van een boete. Met name gelet op de in 6.7.2 genoemde arresten in de zaken J.B. (rechtsoverweging 64) en Chambaz (rechtsoverwegingen 52 tot en met 54) tegen Zwitserland, heeft appellant zich terecht gekeerd tegen het gebruik van de door hem op 21 november 2008 afgelegde verklaring waar het de vaststelling en de toetsing van de opgelegde boete betreft. Alvorens appellant deze verklaring aflegde heeft de fraude-inspecteur appellant er immers uitdrukkelijk op gewezen dat hij verplicht was de gestelde vragen te beantwoorden. Het bewijsmateriaal in die verklaring is daarmee onder druk en niet onafhankelijk van de wil van appellant verkregen en moet daarom buiten beschouwing blijven.
+
+6.7.4. Het Uwv heeft ter zitting erkend dat de boete in overwegende mate op de verklaring van 21 november 2008 is gebaseerd. Bij de toetsing van de boete dienen echter alleen de in 6.7.1 vermelde overige onderzoeksgegevens in aanmerking te worden genomen, omdat deze niet in strijd met artikel 6, eerste lid, van het EVRM zijn verkregen. Uit die gegevens volgt slechts dat appellant op 16 oktober 2008 en op 12 november 2008 werkend in het bedrijf van zijn neef is gezien. Van het niet onverwijld eigener beweging aan het Uwv melding maken van de werkzaamheden op die dagen is appellant niet alleen objectief maar ook subjectief een verwijt te maken. Het Uwv was daarom op grond van artikel 27a van de WW wel gehouden appellant een boete op te leggen maar de met het bestreden besluit opgelegde boete is geen evenredige sanctie. Voor de nadere vaststelling van de hoogte van de boete is van belang dat appellant niet eerder een boete is opgelegd en dat het niet melden van werkzaamheden op twee dagen appellant kan worden verweten. Gelet op de omstandigheden waaronder de overtreding is begaan en op de overige ten aanzien van appellant gebleken omstandigheden acht de Raad een appellant op te leggen boete ter hoogte van het in artikel 2, eerste lid, van het Boetebesluit socialezekerheidswetten genoemde bedrag van € 52,- evenredig.
+
+6.8. Uit 6.1 tot en met 6.7.4 volgt dat het hoger beroep alleen slaagt voor zover het gaat om de intrekking van ZW-uitkering, de terugvordering van ZW-uitkering en de boete. De aangevallen uitspraak moet dan ook worden vernietigd. Doende wat de rechtbank zou behoren te doen, zal de Raad het beroep gegrond verklaren, het bestreden besluit vernietigen, voor zover daarbij de intrekking en de terugvordering van ZW-uitkering en de boete van € 670,- zijn gehandhaafd, en op de in 6.6 en 6.7.4 gemelde wijze zelf in de zaak voorzien. Het bestreden besluit over de herziening, de intrekking en de terugvordering van de WW-uitkering blijft in stand.
+
+7.1. Appellant heeft om vergoeding verzocht van renteschade maar niet onderbouwd dat hij renteschade heeft geleden, zodat dit verzoek wordt afgewezen.
+
+7.2. Er is aanleiding om het Uwv te veroordelen in de kosten van appellant voor verleende rechtsbijstand. Deze kosten worden begroot op € 644,- in bezwaar, op € 966,- in beroep en op € 874,- in hoger beroep, dus in totaal € 2.484,-.
+
+BESLISSING
+
+De Centrale Raad van Beroep
+
+-  vernietigt de aangevallen uitspraak;
+
+-  verklaart het beroep gegrond;
+
+-  vernietigt het besluit van 8 juni 2009, voor zover daarbij de intrekking en de terugvordering van ZW-uitkering en de boete van € 670,- zijn gehandhaafd;
+
+-  herroept de besluiten van 5 februari 2009 over de intrekking en de terugvordering van ZW-uitkering, legt appellant een boete op van € 52,- en bepaalt dat deze uitspraak in zoverre in de plaats treedt van het besluit van 8 juni 2009;
+
+-  veroordeelt het Uwv in de kosten van appellant tot een bedrag van € 2.484,-;
+
+-  wijst het verzoek om veroordeling tot schadevergoeding af;
+
+-  bepaalt dat het Uwv aan appellant het griffierecht van in totaal € 152,- vergoedt.
+
+Deze uitspraak is gedaan door G.A.J. van den Hurk als voorzitter en H.G. Rottier en B.M. van Dun als leden, in tegenwoordigheid van H.J. Dekker als griffier. De beslissing is uitgesproken in het openbaar op 21 november 2012.
+
+(getekend) G.A.J. van den Hurk
+
+(getekend) H.J. Dekker
+
+Tegen deze uitspraak kunnen partijen binnen zes weken na de datum van verzending beroep in cassatie instellen bij de Hoge Raad der Nederlanden (Postbus 20303, 2500 EH ’s-Gravenhage) ter zake van schending of verkeerde toepassing van bepalingen inzake de begrippen werknemer, werkgever, dienstbetrekking of loon.
