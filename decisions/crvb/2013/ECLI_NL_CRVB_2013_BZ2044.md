@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2013:BZ2044"
-published_in: ["Rechtspraak.nl", "TAR 2013/72", "Module Ambtenarenrecht 2013/1347", "AB 2013/231 met annotatie van R. van Arkel", "ABkort 2013/104", "Module Ambtenarenrecht 2014/1435", "JIN 2013/65 met annotatie van P. Kruit", "AR-Updates.nl 2013-0160"]
+published_in: ["Rechtspraak.nl", "TAR 2013/72", "Module Ambtenarenrecht 2013/1347", "AB 2013/231 met annotatie van R. van Arkel", "ABkort 2013/104", "Module Ambtenarenrecht 2014/1435", "JIN 2013/65 met annotatie van P. Kruit", "AR-Updates.nl 2013-0160", "VAAN-AR-Updates.nl 2013-0160"]
 ---
 
 # ECLI:NL:CRVB:2013:BZ2044 Centrale Raad van Beroep , 28-02-2013 / 11/4516 AW + 11/4486 AW + 11/4485 AW + 11/4517 AW
