@@ -10,7 +10,6 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2014:763"
 published_in: ["Rechtspraak.nl", "TAR 2014/116", "Module Ambtenarenrecht 2016/1673"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBUTR:2011:2757, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:CRVB:2014:763 Centrale Raad van Beroep , 06-03-2014 / 11-5513 AW
