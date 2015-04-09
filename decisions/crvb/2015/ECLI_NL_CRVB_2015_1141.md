@@ -10,7 +10,6 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2015:1141"
 published_in: ["Rechtspraak.nl", "TAR 2015/107"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2013:3506, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:CRVB:2015:1141 Centrale Raad van Beroep , 09-04-2015 / 13-5848 AW
