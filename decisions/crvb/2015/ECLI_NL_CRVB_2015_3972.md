@@ -10,7 +10,6 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2015:3972"
 published_in: ["Rechtspraak.nl", "TAR 2016/10"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2014:1764, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:CRVB:2015:3972 Centrale Raad van Beroep , 12-11-2015 /  14-2049 AW
