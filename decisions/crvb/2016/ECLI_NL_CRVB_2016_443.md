@@ -10,7 +10,6 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2016:443"
 published_in: ["Rechtspraak.nl", "NJB 2016/417", "ABkort 2016/76", "TRA 2016/51 met annotatie van M.J.A.C. Driessen", "RSV 2016/58", "USZ 2016/91", "TvPP 2016, afl. 2, p. 37", "SZR-Updates.nl 2016-0090"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2014:8363, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/awb/art-08-032.md", "netherlands/national/acts/wet-wia/art-105.md"]
 ---
 
