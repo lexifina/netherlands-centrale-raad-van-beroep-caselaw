@@ -1,0 +1,107 @@
+---
+ecli: "ECLI:NL:CRVB:2016:1419"
+court: "Centrale Raad van Beroep"
+court_code: "CRVB"
+docket: "14/209 WMO"
+decided: "2016-04-20"
+published: "2016-04-20"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2016:1419"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CRVB:2016:1419 Centrale Raad van Beroep , 20-04-2016 / 14/209 WMO
+
+## Inhoudsindicatie
+
+Toelating tot maatschappelijke opvang terecht geweigerd. Niet gebleken van een situatie van dakloosheid of concrete dreiging van dakloosheid.
+
+## Uitspraak
+
+14/209 WMO
+
+Datum uitspraak: 20 april 2016
+
+Centrale Raad van Beroep
+
+Enkelvoudige kamer
+
+Uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Amsterdam van 23 december 2013, 13/978 (aangevallen uitspraak)
+
+Partijen:
+
+[Appellant] te [woonplaats] (appellant)
+
+het college van burgemeester en wethouders van Amsterdam (college)
+
+PROCESVERLOOP
+
+Namens appellant heeft mr. J. Klaas, advocaat, hoger beroep ingesteld.
+
+Het college heeft een verweerschrift ingediend.
+
+Appellant heeft nadere stukken ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 9 maart 2016. Namens appellant is verschenen mr. W.G. Fischer, kantoorgenoot van mr. Klaas. Het college heeft zich laten vertegenwoordigen door mr. H.E. Benjamins en mr. S.M.E. Dreyer.
+
+OVERWEGINGEN
+
+1. De Raad gaat uit van de volgende feiten en omstandigheden.
+
+1.1.
+
+Appellant, geboren [in] 1978, is van Tibetaanse afkomst en is in 2009 Nederland binnengekomen. Hij heeft een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd ingediend. Deze aanvraag is bij besluit van 6 januari 2010 door de staatssecretaris van Veiligheid en Justitie (staatssecretaris) afgewezen. Bij uitspraak van 2 februari 2010 heeft de voorzieningenrechter van de rechtbank Den Haag het door appellant tegen dit besluit ingestelde beroep ongegrond verklaard. Op 16 maart 2010 heeft de Afdeling bestuursrechtspraak van de Raad van State de uitspraak van de rechtbank bevestigd.
+
+1.2.
+
+Op 29 augustus 2012 heeft appellant bij het college een aanvraag ingediend om maatschappelijke opvang als bedoeld in de Wet maatschappelijke ondersteuning (Wmo). Bij besluit van 25 september 2012 heeft het college deze aanvraag afgewezen.
+
+1.3.
+
+Bij besluit van 19 februari 2013 (bestreden besluit) heeft het college het bezwaar van appellant tegen het besluit van 25 september 2012 ongegrond verklaard, omdat hij niet voldoet aan de voorwaarden om te worden toegelaten tot de maatschappelijke opvang ingevolge de Wmo. Hierbij heeft het college zich onder meer op het standpunt gesteld dat er bij appellant geen sprake is van feitelijke dakloosheid en dat dit een eventuele aanspraak op maatschappelijke opvang in de weg staat.
+
+2. Bij de aangevallen uitspraak heeft de rechtbank het beroep van appellante tegen het bestreden besluit ongegrond verklaard. Hierbij heeft de rechtbank, voor zover van belang, geoordeeld dat appellante feitelijk onderdak heeft gehad bij vrienden en kennissen.
+
+3. Bij besluit van 1 mei 2014 heeft de staatssecretaris aan appellant voor de periode van 14 juni 2012 tot 14 juni 2017 een verblijfsvergunning asiel voor bepaalde tijd verleend op grond van artikel 29, eerste lid, aanhef en onder b, van de Vreemdelingenwet 2000
+
+(Vw 2000).
+
+4. Appellant heeft zich in hoger beroep gemotiveerd tegen de aangevallen uitspraak gekeerd.
+
+5. De Raad komt tot de volgende beoordeling.
+
+5.1.
+
+Het verzoek om toelating tot de maatschappelijke opvang van appellant dateert van vóór 24 februari 2014, zodat, onder verwijzing naar de uitspraken van 16 juli 2014, ECLI:NL:CRVB:2014:2444, en 26 november 2015, ECLI:NL:CRVB:2015:3834, ter beoordeling van de aanspraken van appellant nog het recht van toepassing is, zoals dat gold voor de uitspraken van 4 juni 2014, ECLI:NL:CRVB:2014:1995, en 26 november 2015.
+
+5.2.
+
+Volgens vaste rechtspraak (uitspraak van de Raad van 4 juni 2014, ECLI:NL:CRVB:2014:1884) loopt bij een aanvraag als hier aan de orde de door de bestuursrechter te beoordelen periode in beginsel van de datum van de aanvraag tot en met de datum van de beslissing op bezwaar. In dit geval betekent dit dat de periode van belang de periode van 29 augustus 2012 tot en met 19 februari 2013 betreft.
+
+5.3.
+
+Uit het onder 3 genoemde besluit van de staatssecretaris volgt dat appellant ten tijde hier van belang alsnog over rechtmatig verblijf in Nederland beschikte. Dit betekent dat de artikelen 10 en 11 van de Vw 2000 niet aan toelating tot de maatschappelijke opvang op grond van de Wmo in de weg staan.
+
+5.4.
+
+Gedurende de periode in dit geding van belang is echter niet gebleken van een situatie van dakloosheid of concrete dreiging van dakloosheid bij appellant. Appellant heeft in die periode verbleven op verschillende adressen bij vrienden en kennissen binnen de Tibetaanse gemeenschap. Het college heeft zich dan ook op het standpunt kunnen stellen dat de noodzaak ontbrak om appellant toe te laten tot de maatschappelijke opvang, dan wel om appellant leefgeld te verstrekken om zelf in opvang te kunnen voorzien. Dat aan appellant met terug werkende kracht een verblijfsvergunning is verleend maakt dit niet anders.
+
+5.5.
+
+Gelet op hetgeen is overwogen onder 5.1 tot en met 5.4 slaagt het hoger beroep niet, zodat de aangevallen uitspraak voor bevestiging in aanmerking komt.
+
+6. Voor een veroordeling in de proceskosten bestaat geen aanleiding.
+
+BESLISSING
+
+De Centrale Raad van Beroep bevestigt de aangevallen uitspraak.
+
+Deze uitspraak is gedaan door H.J. de Mooij, in tegenwoordigheid van M.S.E.S. Umans als griffier. De beslissing is uitgesproken in het openbaar op 20 april 2016.
+
+(getekend) H.J. de Mooij
+
+(getekend) M.S.E.S. Umans
+
+mo
