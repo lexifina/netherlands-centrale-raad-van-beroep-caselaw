@@ -1,0 +1,118 @@
+---
+ecli: "ECLI:NL:CRVB:2016:2841"
+court: "Centrale Raad van Beroep"
+court_code: "CRVB"
+docket: "15-3956 AKW"
+decided: "2016-07-22"
+published: "2016-07-26"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2016:2841"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:14"]]
+---
+
+# ECLI:NL:CRVB:2016:2841 Centrale Raad van Beroep , 22-07-2016 / 15-3956 AKW
+
+## Inhoudsindicatie
+
+De Svb heeft terecht het recht op kinderbijslag beëindigd. Appellant is niet langer verzekerd voor de AKW.
+
+## Uitspraak
+
+15/3956 AKW
+
+Centrale Raad van Beroep
+
+Enkelvoudige kamer
+
+Uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Amsterdam van
+
+12 mei 2015, 14/6908 (aangevallen uitspraak),
+
+Partijen:
+
+[appellant] te [woonplaats] (Marokko) (appellant),
+
+de Raad van bestuur van de Sociale verzekeringsbank (Svb)
+
+Datum uitspraak: 22 juli 2016
+
+PROCESVERLOOP
+
+Appellant heeft hoger beroep ingesteld.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 10 juni 2016. Appellant is niet verschenen. De Svb heeft zich laten vertegenwoordigen door L.M.J.A. Erkens.
+
+OVERWEGINGEN
+
+1.1.
+
+Appellant woont in Marokko en ontvangt een uitkering ingevolge de Wet op de arbeidsongeschiktheidsverzekering (WAO). Appellant heeft zeven kinderen. Ten tijde van het besluit van 2 juni 2014 heeft appellant voor [naam kind 1] en [naam kind 2] , geboren [in] 1996 en
+
+[in] 1999, kinderbijslag ingevolge de Algemene Kinderbijslagwet (AKW) ontvangen.
+
+1.2.
+
+Bij besluit van 2 juni 2014 heeft de Svb appellant medegedeeld dat hij met ingang van het derde kwartaal van 2014 geen recht meer heeft op kinderbijslag voor deze kinderen. Aan dit besluit heeft de Svb ten gronde gelegd dat per 1 januari 2000 de verplichte verzekering voor de AKW van in het buitenland wonende WAO-gerechtigden is beëindigd. Na 1 januari 2000 behield appellant het recht op kinderbijslag op grond van de overgangsregeling. [naam kind 1] is in het tweede kwartaal van 2014 18 jaar geworden. Daardoor heeft appellant vanaf het derde kwartaal van 2014 geen recht meer op kinderbijslag.
+
+1.3.
+
+Bij het bestreden besluit van 25 september 2014 is het bezwaar tegen het besluit van
+
+2 juni 2014 ongegrond verklaard.
+
+2. De rechtbank heeft het beroep tegen het bestreden besluit ongegrond verklaard.
+
+3. Appellant heeft in hoger beroep het oordeel van de rechtbank bestreden.
+
+4. De Raad komt tot de volgende beoordeling.
+
+4.1.
+
+Ingevolge artikel 26, eerste lid onder a, van het Besluit uitbreiding en beperking kring der verzekerden volksverzekeringen 1999 (KB 746) was tot 1 januari 2000 verzekerd voor de AKW de persoon die buiten Nederland was gaan wonen en op de dag van zijn vertrek recht had op een WAO-uitkering.
+
+4.2.
+
+Artikel 26 van KB 746 is met ingang van 1 januari 2000 vervallen. In artikel 27 van KB 746 was bepaald dat degene die tot aan 1 januari 2000 verzekerd was op grond van artikel
+
+26 en die uitsluitend door het vervallen van dat artikel vanaf die dag geen recht meer heeft op kinderbijslag, voor het bepalen van de verzekeringspositie artikel 26 van toepassing blijft, voor zolang het jongste kind dat vóór die dag recht had op kinderbijslag, de leeftijd van
+
+18 jaar nog niet heeft bereikt. Deze overgangsregeling is sinds 1 januari 2006 opgenomen in artikel 7c van de AKW.
+
+4.3.
+
+Ingevolge artikel 26 van KB 746 was appellant, die op de dag van zijn vertrek naar Marokko recht had op een WAO-uitkering, verzekerd voor de AKW. Op grond van de in artikel 27 van het KB 746, en later op grond van de in artikel 7c van de AKW, vervatte overgangsregeling is appellant, ook na het vervallen van artikel 26 van KB 746 op
+
+1 januari 2000, voor de AKW verzekerd gebleven. De grondslag voor verzekering op grond van de AKW verviel echter op het moment dat het jongste kind voor wie appellant vóór
+
+1 januari 2000 recht had op kinderbijslag, in dit geval [naam kind 1] , de leeftijd van 18 jaar had bereikt.
+
+4.4.
+
+De Raad stelt vast dat [naam kind 1] in het tweede kwartaal van 2014 18 jaar is geworden. Dit heeft tot gevolg dat appellant vanaf het derde kwartaal van 2014 niet langer verzekerd is voor de AKW. Dit betekent dat de Svb terecht het recht op kinderbijslag voor [naam kind 1] en [naam kind 2] ingang van het derde kwartaal van 2014 heeft beëindigd.
+
+4.5.
+
+Uit wat hiervoor onder 4.1 tot en met 4.4 is overwogen volgt dat het hoger beroep niet slaagt en dat de aangevallen uitspraak bevestigd dient te worden.
+
+5. Voor een veroordeling in de proceskosten bestaat geen aanleiding.
+
+BESLISSING
+
+De Centrale Raad van Beroep bevestigt de aangevallen uitspraak.
+
+Deze uitspraak is gedaan door L. Koper als voorzitter, in tegenwoordigheid van
+
+J.M.M. van Dalen als griffier. De beslissing is uitgesproken in het openbaar op 22 juli 2016.
+
+(getekend) L. Koper
+
+(getekend) J.M.M. van Dalen
+
+Tegen deze uitspraak kunnen partijen binnen zes weken na de datum van verzending beroep in cassatie instellen bij de Hoge Raad der Nederlanden (Postbus 20303, 2500 EH
+
+’s-Gravenhage) ter zake van schending of verkeerde toepassing van bepalingen inzake het begrip kring van verzekerden.
+
+NK
