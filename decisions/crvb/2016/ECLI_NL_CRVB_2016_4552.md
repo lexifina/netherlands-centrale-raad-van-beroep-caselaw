@@ -1,0 +1,110 @@
+---
+ecli: "ECLI:NL:CRVB:2016:4552"
+court: "Centrale Raad van Beroep"
+court_code: "CRVB"
+docket: "16/4554 PW"
+decided: "2016-11-29"
+published: "2016-11-29"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2016:4552"
+published_in: ["Rechtspraak.nl", "ABkort 2016/444"]
+---
+
+# ECLI:NL:CRVB:2016:4552 Centrale Raad van Beroep , 29-11-2016 / 16/4554 PW
+
+## Inhoudsindicatie
+
+Besluitkarakter herzieningsbeslissing. Dat niet geconcretiseerd wordt in hoeverre recht wordt herzien, doet aan besluitkarakter niet af.
+
+## Uitspraak
+
+16
+4554 PW
+
+Datum uitspraak: 29 november 2016
+
+Centrale Raad van Beroep
+
+Enkelvoudige kamer
+
+Uitspraak op het hoger beroep tegen de uitspraak van de rechtbank Midden-Nederland van
+
+24 mei 2016, 15/4472 (aangevallen uitspraak)
+
+Partijen:
+
+[appellante] (appellante) en [appellant] (appellant) te [woonplaats]
+
+Het dagelijks bestuur van Werk en Inkomen Lekstroom (dagelijks bestuur)
+
+PROCESVERLOOP
+
+Namens appellanten heeft mr. M.P. Hilhorst, advocaat, hoger beroep ingesteld.
+
+Het dagelijks bestuur heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft tezamen met het onderzoek in de zaak 16/2610 WWB plaatsgevonden op 18 oktober 2016. Namens appellanten is verschenen
+
+mr. T.S. van der Horst, advocaat, kantoorgenoot van mr. Hilhorst. Het dagelijks bestuur heeft zich laten vertegenwoordigen door mr. W.M.M. Janssen. In de zaak 16/2610 WWB is heden afzonderlijk uitspraak gedaan.
+
+OVERWEGINGEN
+
+1. De Raad gaat uit van de volgende in dit geding van belang zijnde feiten en omstandigheden.
+
+1.1.
+
+Appellanten ontvangen sinds 2 juli 2001 bijstand, ten tijde in geding ingevolge de Wet werk en bijstand (WWB), naar de norm voor gehuwden.
+
+1.2.
+
+Naar aanleiding van informatie van de Regiopolitie Utrecht dat bij de Financial Intelligence Unit-Nederland meldingen van ongebruikelijke financiële transacties van appellanten bekend zijn, heeft de Regionale Sociale Recherche Nieuwegein (sociale recherche) een onderzoek ingesteld naar de rechtmatigheid van de aan appellanten verleende bijstand. Bij dit onderzoek heeft de sociale recherche vastgesteld dat appellanten in de periode van 1 januari 2003 tot en met 21 juli 2011 sieraden hebben beleend tot een bedrag van in totaal € 56.740,- bij de Stadsbank van lening, zonder daarvan melding te doen bij het dagelijks bestuur.
+
+1.3.
+
+De bevindingen van het onderzoek vormden voor het dagelijks bestuur aanleiding om de volgende beslissing van 21 november 2014 (herzieningsbeslissing) tot appellanten te richten: “Gebleken is dat u van 1 januari 2003 tot en met 21 juli 2011 ten onrechte bijstand heeft ontvangen. Wij hebben daarom besloten het recht op bijstand over de periode 1 januari 2003 tot en met 21 juli 2011 te herzien op grond van artikel 54, lid 3, eerste volzin WWB”.
+
+1.4.
+
+Bij besluit van 13 april 2015 (terugvorderingsbesluit) heeft het dagelijks bestuur de over de periode van 1 januari 2003 tot en met 21 juli 2011 gemaakte kosten van bijstand tot een bedrag van € 46.790,- van appellanten teruggevorderd. In dit terugvorderingsbesluit is tevens vermeld dat bij beschikking van 24 november 2014 het recht op uitkering is herzien over de genoemde periode.
+
+1.5.
+
+Bij brief van 22 mei 2015 hebben appellanten bezwaar gemaakt tegen het terugvorderingsbesluit en daarbij vermeld niet bekend te zijn met de herzieningsbeslissing.
+
+1.6.
+
+Het dagelijks bestuur heeft het bezwaarschrift van 22 mei 2015 mede gericht geacht tegen de herzieningsbeslissing. Bij besluit van 9 juli 2015 (bestreden besluit) heeft het dagelijks bestuur het bezwaar tegen de herzieningsbeslissing wegens termijnoverschrijding niet-ontvankelijk verklaard en het bezwaar tegen het terugvorderingsbesluit ongegrond verklaard.
+
+2. Bij de aangevallen uitspraak heeft de rechtbank het beroep tegen het bestreden besluit ongegrond verklaard.
+
+3. In hoger beroep hebben appellanten zich tegen de aangevallen uitspraak gekeerd. Zij voeren daartoe aan dat de herzieningsbeslissing niet is aan te merken als een besluit in de zin van artikel 1:3, van de Algemene wet bestuursrecht (Awb). Het is slechts een melding dat het recht op bijstand wordt herzien en concretiseert niet wat de aard van die herziening, en dus het beoogde rechtsgevolg, is. De herzieningsbeslissing kan daarom niet aan het terugvorderingsbesluit ten grondslag worden gelegd. Als de herzieningsbeslissing wel is aan te merken als een besluit in de zin van artikel 1:3 van de Awb dan is sprake van een verschoonbare overschrijding van de termijn voor het maken van bezwaar, aangezien niet duidelijk is wat de aard van de herziening is terwijl de gevolgen fors ten nadele van appellanten zijn. Bovendien was het besluit ondoorzichtig omdat daarin ook twee andere beslissingen ter kennis van appellanten werden gebracht.
+
+4. De Raad komt tot de volgende beoordeling.
+
+4.1.
+
+De herzieningsbeslissing is een besluit in de zin van artikel 1:3, eerste lid, van de Awb. Gelet op de vaststelling in de beslissing dat appellanten in de genoemde periode ten onrechte bijstand hebben ontvangen en het recht over deze periode daarom wordt herzien is de herzieningsbeslissing gericht op het rechtsgevolg dat recht van appellanten op bijstand over deze periode teniet wordt gedaan. De omstandigheid dat niet wordt geconcretiseerd in hoeverre recht op bijstand teniet wordt gedaan (en daarom mogelijk gebrekkig zou kunnen zijn) doet aan het besluitkarakter van de herzieningsbeslissing niet af. Het betoog dat de herzieningsbeslissing niet aan het terugvorderingsbesluit ten grondslag kon worden gelegd omdat de herzieningsbeslissing geen besluit is, slaagt dan ook niet.
+
+4.2.
+
+Tegen de herzieningsbeslissing hebben appellanten niet binnen de wettelijke termijn bezwaar gemaakt. In wat appellanten hebben aangevoerd is geen reden gelegen om te oordelen dat de overschrijding van de termijn verschoonbaar is. Anders dan appellanten stellen zijn in het besluit geen andere beslissingen ter kennis van appellanten gebracht. In het besluit is vermeld dat binnen zes weken bezwaar kan worden gemaakt. Voor zover het voor appellanten niet duidelijk was wat de gevolgen van het besluit zijn, had het op hun weg gelegen daarover navraag bij het college te doen dan wel juridische bijstand in te schakelen.
+
+4.3.
+
+Uit 4.1 en 4.2 volgt dat het hoger beroep niet slaagt, zodat de aangevallen uitspraak moet worden bevestigd.
+
+5. Voor een veroordeling in de proceskosten bestaat geen aanleiding.
+
+BESLISSING
+
+De Centrale Raad van Beroep bevestigt de aangevallen uitspraak.
+
+Deze uitspraak is gedaan door J.L. Boxum, in tegenwoordigheid van M.S. Spek als griffier. De beslissing is uitgesproken in het openbaar op 29 november 2016.
+
+(getekend) J.L. Boxum
+
+(getekend) M.S. Spek
+
+HD
