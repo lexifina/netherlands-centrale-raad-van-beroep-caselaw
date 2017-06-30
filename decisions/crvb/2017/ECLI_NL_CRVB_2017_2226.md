@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2017:2226"
-published_in: ["Rechtspraak.nl", "NJB 2017/1544", "RZA 2018/2", "ABKort 2017/191", "RSV 2017/151 met annotatie van W.A. Faas", "JWWB 2017/212 met annotatie van B.T. Tonino", "AB 2017/367 met annotatie van A.M.L. Jansen", "AB 2017/366 met annotatie van L.M. Koenraad", "USZ 2017/326 met annotatie van E. van den Bogaard", "JB 2017/163 met annotatie van A.M.M.M. Bots", "SZR-Updates.nl 2017-0155"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2014:8620, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "NJB 2017/1544", "RZA 2018/2", "ABKort 2017/191", "RSV 2017/151 met annotatie van W.A. Faas", "JWWB 2017/212 met annotatie van B.T. Tonino", "AB 2017/367 met annotatie van A.M.L. Jansen", "AB 2017/366 met annotatie van L.M. Koenraad", "USZ 2017/326 met annotatie van E. van den Bogaard", "JB 2017/163 met annotatie van A.M.M.M. Bots", "SZR-Updates.nl 2017-0155", "AA20170723 met annotatie van Graaf de K.J. Kars, Marseille A.T. Bert"]
 cites_law: ["netherlands/national/acts/schattingsbesluit-arbeidsongeschiktheidswetten/art-002.md", "netherlands/national/acts/schattingsbesluit-arbeidsongeschiktheidswetten/art-003.md", "netherlands/national/acts/schattingsbesluit-arbeidsongeschiktheidswetten/art-004.md"]
 ---
 
