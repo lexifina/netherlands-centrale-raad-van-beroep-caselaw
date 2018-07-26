@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2018:2381"
-published_in: ["Rechtspraak.nl", "PJ 2018/164", "PR-Updates.nl PR-2018-0100"]
+published_in: ["Rechtspraak.nl", "PJ 2018/164", "PR-Updates.nl PR-2018-0100", "PR-Updates.nl 2018-0100"]
 ---
 
 # ECLI:NL:CRVB:2018:2381 Centrale Raad van Beroep , 26-07-2018 / 17-4151 AW
