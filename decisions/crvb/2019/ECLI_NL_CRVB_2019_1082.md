@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2019:1082"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0048"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0048", "PR-Updates.nl 2019-0048"]
 ---
 
 # ECLI:NL:CRVB:2019:1082 Centrale Raad van Beroep , 14-03-2019 / 15/5649 MPW
