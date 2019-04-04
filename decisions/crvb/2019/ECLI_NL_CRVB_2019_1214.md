@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2019:1214"
-published_in: ["Rechtspraak.nl", "ABkort 2019/255", "PR-Updates.nl PR-2019-0050"]
+published_in: ["Rechtspraak.nl", "ABkort 2019/255", "PR-Updates.nl PR-2019-0050", "PR-Updates.nl 2019-0050"]
 ---
 
 # ECLI:NL:CRVB:2019:1214 Centrale Raad van Beroep , 04-04-2019 / 17/7852 MPW
