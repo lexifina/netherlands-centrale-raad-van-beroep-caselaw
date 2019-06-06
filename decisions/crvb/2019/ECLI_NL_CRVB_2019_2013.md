@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2019:2013"
-published_in: ["Rechtspraak.nl", "TAR 2019/122", "PR-Updates.nl PR-2019-0097"]
+published_in: ["Rechtspraak.nl", "TAR 2019/122", "PR-Updates.nl PR-2019-0097", "PR-Updates.nl 2019-0097"]
 ---
 
 # ECLI:NL:CRVB:2019:2013 Centrale Raad van Beroep , 06-06-2019 / 18/4786 AW
