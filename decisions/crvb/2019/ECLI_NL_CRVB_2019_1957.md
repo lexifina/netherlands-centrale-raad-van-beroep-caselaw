@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2019:1957"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0078"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0078", "PR-Updates.nl 2019-0078"]
 ---
 
 # ECLI:NL:CRVB:2019:1957 Centrale Raad van Beroep , 06-06-2019 / 18/1342 MPW
