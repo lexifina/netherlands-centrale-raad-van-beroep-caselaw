@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2019:2808"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0115"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0115", "PR-Updates.nl 2019-0115"]
 ---
 
 # ECLI:NL:CRVB:2019:2808 Centrale Raad van Beroep , 22-08-2019 / 18/4127 MPW
