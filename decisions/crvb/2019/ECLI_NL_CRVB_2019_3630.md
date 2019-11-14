@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2019:3630"
-published_in: ["Rechtspraak.nl", "SZR-Updates.nl 2019-0054", "RSV 2020/24", "PJ 2020/2", "PR-Updates.nl PR-2019-0167"]
+published_in: ["Rechtspraak.nl", "SZR-Updates.nl 2019-0054", "RSV 2020/24", "PJ 2020/2", "PR-Updates.nl PR-2019-0167", "PR-Updates.nl 2019-0167"]
 ---
 
 # ECLI:NL:CRVB:2019:3630 Centrale Raad van Beroep , 14-11-2019 / 18/4001 WW
