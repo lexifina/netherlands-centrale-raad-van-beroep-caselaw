@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2019:4011"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2020-0024", "PR-Updates.nl PR-2020-0001"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2020-0024", "PR-Updates.nl PR-2020-0001", "PR-Updates.nl 2020-0001"]
 ---
 
 # ECLI:NL:CRVB:2019:4011 Centrale Raad van Beroep , 12-12-2019 / 19/674 MPW
