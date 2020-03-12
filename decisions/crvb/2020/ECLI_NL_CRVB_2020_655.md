@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2020:655"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0070"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0070", "PR-Updates.nl 2020-0070"]
 ---
 
 # ECLI:NL:CRVB:2020:655 Centrale Raad van Beroep , 12-03-2020 / 19/1209 MPW
