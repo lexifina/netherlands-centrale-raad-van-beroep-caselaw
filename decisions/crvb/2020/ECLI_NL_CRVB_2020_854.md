@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2020:854"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0080", "TAR 2020/80"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0080", "TAR 2020/80", "PR-Updates.nl 2020-0080"]
 ---
 
 # ECLI:NL:CRVB:2020:854 Centrale Raad van Beroep , 02-04-2020 / 19-148 AW
