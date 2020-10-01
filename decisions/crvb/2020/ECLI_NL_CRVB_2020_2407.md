@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2020:2407"
-published_in: ["Rechtspraak.nl", "ABkort 2020/451", "PR-Updates.nl PR-2020-0172"]
+published_in: ["Rechtspraak.nl", "ABkort 2020/451", "PR-Updates.nl PR-2020-0172", "PR-Updates.nl 2020-0172"]
 ---
 
 # ECLI:NL:CRVB:2020:2407 Centrale Raad van Beroep , 01-10-2020 / 19/2682 MAW
