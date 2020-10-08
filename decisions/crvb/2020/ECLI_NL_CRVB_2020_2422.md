@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2020:2422"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0169"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0169", "PR-Updates.nl 2020-0169"]
 ---
 
 # ECLI:NL:CRVB:2020:2422 Centrale Raad van Beroep , 08-10-2020 / 19/759 MPW
