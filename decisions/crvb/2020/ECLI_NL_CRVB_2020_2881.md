@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2020:2881"
-published_in: ["Rechtspraak.nl", "ABkort 2020/542", "PR-Updates.nl PR-2020-0178", "JB 2021/34 met annotatie van Albers, C.L.G.F.H.", "JIN 2021/74 met annotatie van Albers, C.L.G.F.H."]
+published_in: ["Rechtspraak.nl", "ABkort 2020/542", "PR-Updates.nl PR-2020-0178", "JB 2021/34 met annotatie van Albers, C.L.G.F.H.", "JIN 2021/74 met annotatie van Albers, C.L.G.F.H.", "PR-Updates.nl 2020-0178"]
 ---
 
 # ECLI:NL:CRVB:2020:2881 Centrale Raad van Beroep , 19-11-2020 / 19/5422 AW
