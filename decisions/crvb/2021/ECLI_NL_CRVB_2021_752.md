@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2021:752"
-published_in: ["Rechtspraak.nl", "ABkort 2021/271", "PR-Updates.nl PR-2021-0083", "AB 2021/229 met annotatie van L.J.A. Damen"]
+published_in: ["Rechtspraak.nl", "ABkort 2021/271", "PR-Updates.nl PR-2021-0083", "AB 2021/229 met annotatie van L.J.A. Damen", "PR-Updates.nl 2021-0083"]
 ---
 
 # ECLI:NL:CRVB:2021:752 Centrale Raad van Beroep , 01-04-2021 / 20/656 AW
