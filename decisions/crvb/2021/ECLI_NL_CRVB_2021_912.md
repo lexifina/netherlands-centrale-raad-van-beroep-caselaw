@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2021:912"
-published_in: ["Rechtspraak.nl", "ABkort 2021/313", "PR-Updates.nl PR-2021-0076"]
+published_in: ["Rechtspraak.nl", "ABkort 2021/313", "PR-Updates.nl PR-2021-0076", "PR-Updates.nl 2021-0076"]
 ---
 
 # ECLI:NL:CRVB:2021:912 Centrale Raad van Beroep , 22-04-2021 / 19/1593 MPW
