@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2021:1171"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0094", "AB 2021/267 met annotatie van A.C. Hendriks"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0094", "AB 2021/267 met annotatie van A.C. Hendriks", "PR-Updates.nl 2021-0094"]
 ---
 
 # ECLI:NL:CRVB:2021:1171 Centrale Raad van Beroep , 20-05-2021 / 19/2968 MPW
