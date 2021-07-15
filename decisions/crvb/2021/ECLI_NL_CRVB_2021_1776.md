@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2021:1776"
-published_in: ["Rechtspraak.nl", "ABkort 2021/488", "PR-Updates.nl PR-2021-0150"]
+published_in: ["Rechtspraak.nl", "ABkort 2021/488", "PR-Updates.nl PR-2021-0150", "PR-Updates.nl 2021-0150"]
 ---
 
 # ECLI:NL:CRVB:2021:1776 Centrale Raad van Beroep , 15-07-2021 / 19/4447 MPW
