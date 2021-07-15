@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2021:1814"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0151"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0151", "PR-Updates.nl 2021-0151"]
 ---
 
 # ECLI:NL:CRVB:2021:1814 Centrale Raad van Beroep , 15-07-2021 / 20/1226 MPW
