@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2021:1802"
-published_in: ["Rechtspraak.nl", "ABkort 2021/487", "PR-Updates.nl PR-2021-0149", "TAR 2021/101", "JB 2021/186 met annotatie van Albers, C.L.G.F.H.", "AB 2022/129 met annotatie van L.J.A. Damen"]
+published_in: ["Rechtspraak.nl", "ABkort 2021/487", "PR-Updates.nl PR-2021-0149", "TAR 2021/101", "JB 2021/186 met annotatie van Albers, C.L.G.F.H.", "AB 2022/129 met annotatie van L.J.A. Damen", "PR-Updates.nl 2021-0149"]
 ---
 
 # ECLI:NL:CRVB:2021:1802 Centrale Raad van Beroep , 16-07-2021 / 20/3069 AW
