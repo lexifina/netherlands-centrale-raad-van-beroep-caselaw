@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste en enige aanleg"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:60"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0031", "PR-Updates.nl PR-2022-0095"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0031", "PR-Updates.nl PR-2022-0095", "PR-Updates.nl 2022-0031"]
 ---
 
 # ECLI:NL:CRVB:2022:60 Centrale Raad van Beroep , 06-01-2022 / 21/578 AW
