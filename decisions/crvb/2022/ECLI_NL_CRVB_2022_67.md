@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:67"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0030"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0030", "PR-Updates.nl 2022-0030"]
 ---
 
 # ECLI:NL:CRVB:2022:67 Centrale Raad van Beroep , 07-01-2022 / 20/3904 MPW
