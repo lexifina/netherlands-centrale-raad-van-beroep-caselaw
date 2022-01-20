@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:220"
-published_in: ["Rechtspraak.nl", "PJ 2022/17", "PR-Updates.nl PR-2022-0056"]
+published_in: ["Rechtspraak.nl", "PJ 2022/17", "PR-Updates.nl PR-2022-0056", "PR-Updates.nl 2022-0056"]
 ---
 
 # ECLI:NL:CRVB:2022:220 Centrale Raad van Beroep , 20-01-2022 / 20/1859 AW
