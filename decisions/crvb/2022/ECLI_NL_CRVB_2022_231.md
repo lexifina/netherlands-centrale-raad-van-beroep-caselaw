@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:231"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0061"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0061", "PR-Updates.nl 2022-0061"]
 ---
 
 # ECLI:NL:CRVB:2022:231 Centrale Raad van Beroep , 20-01-2022 / 20/672 AW
