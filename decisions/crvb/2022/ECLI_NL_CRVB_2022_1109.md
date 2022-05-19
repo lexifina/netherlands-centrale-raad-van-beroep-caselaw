@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:1109"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0111", "PJ 2022/75"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0111", "PJ 2022/75", "PR-Updates.nl 2022-0111"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1350"]]
 ---
 
