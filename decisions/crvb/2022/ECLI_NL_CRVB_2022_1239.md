@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:1239"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1949", "V-N 2022/38.1.3"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:729"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:730"]]
 ---
 
 # ECLI:NL:CRVB:2022:1239 Centrale Raad van Beroep , 19-05-2022 / 21/2248 AOW
