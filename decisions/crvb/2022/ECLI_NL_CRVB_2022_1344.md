@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:1344"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0129"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0129", "PR-Updates.nl 2022-0129"]
 ---
 
 # ECLI:NL:CRVB:2022:1344 Centrale Raad van Beroep , 23-06-2022 / 21/1761 MPW
