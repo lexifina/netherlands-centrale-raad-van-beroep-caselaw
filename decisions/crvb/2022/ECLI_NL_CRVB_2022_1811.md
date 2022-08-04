@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:1811"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0162"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0162", "PR-Updates.nl 2022-0162"]
 ---
 
 # ECLI:NL:CRVB:2022:1811 Centrale Raad van Beroep , 04-08-2022 / 21/1563 MPW
