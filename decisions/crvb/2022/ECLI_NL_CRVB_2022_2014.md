@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2022:2014"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0176"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0176", "PR-Updates.nl 2022-0176"]
 ---
 
 # ECLI:NL:CRVB:2022:2014 Centrale Raad van Beroep , 02-09-2022 / 21/3669 MPW
