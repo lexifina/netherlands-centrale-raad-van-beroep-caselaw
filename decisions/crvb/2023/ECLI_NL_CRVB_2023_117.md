@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:117"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0004"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0004", "PR-Updates.nl 2024-0004"]
 ---
 
 # ECLI:NL:CRVB:2023:117 Centrale Raad van Beroep , 19-01-2023 / 18/2203 WAJONG
