@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:207"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0024"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0024", "PR-Updates.nl 2023-0024"]
 ---
 
 # ECLI:NL:CRVB:2023:207 Centrale Raad van Beroep , 01-02-2023 / 22/2984 AOW
