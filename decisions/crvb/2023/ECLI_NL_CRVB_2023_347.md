@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:347"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0023", "ABkort 2023/78", "TAR 2023/41"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0023", "ABkort 2023/78", "TAR 2023/41", "PR-Updates.nl 2023-0023"]
 ---
 
 # ECLI:NL:CRVB:2023:347 Centrale Raad van Beroep , 23-02-2023 / 21 / 3103 AW
