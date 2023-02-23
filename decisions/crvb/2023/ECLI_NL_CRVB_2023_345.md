@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:345"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0021"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0021", "PR-Updates.nl 2023-0021"]
 ---
 
 # ECLI:NL:CRVB:2023:345 Centrale Raad van Beroep , 23-02-2023 / 22 / 1098 AW
