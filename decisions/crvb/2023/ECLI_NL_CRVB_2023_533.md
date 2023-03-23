@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:533"
-published_in: ["Rechtspraak.nl", "ABkort 2023/118", "PR-Updates.nl PR-2023-0039"]
+published_in: ["Rechtspraak.nl", "ABkort 2023/118", "PR-Updates.nl PR-2023-0039", "PR-Updates.nl 2023-0039"]
 ---
 
 # ECLI:NL:CRVB:2023:533 Centrale Raad van Beroep , 23-03-2023 / 22/2761 MPW
