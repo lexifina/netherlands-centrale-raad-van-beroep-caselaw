@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:1051"
-published_in: ["Rechtspraak.nl", "ABkort 2023/177", "PR-Updates.nl PR-2023-0139", "PJ 2023/86"]
+published_in: ["Rechtspraak.nl", "ABkort 2023/177", "PR-Updates.nl PR-2023-0139", "PJ 2023/86", "PR-Updates.nl 2023-0139"]
 ---
 
 # ECLI:NL:CRVB:2023:1051 Centrale Raad van Beroep , 01-06-2023 / 22/1361 AW
