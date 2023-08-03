@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:1506"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0173"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0173", "PR-Updates.nl 2023-0173"]
 ---
 
 # ECLI:NL:CRVB:2023:1506 Centrale Raad van Beroep , 03-08-2023 / 21 / 3857 MPW
