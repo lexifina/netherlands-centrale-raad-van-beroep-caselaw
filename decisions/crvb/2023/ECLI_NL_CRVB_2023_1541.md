@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:1541"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0172"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0172", "PR-Updates.nl 2023-0172"]
 ---
 
 # ECLI:NL:CRVB:2023:1541 Centrale Raad van Beroep , 09-08-2023 / 22/1550 MPW
