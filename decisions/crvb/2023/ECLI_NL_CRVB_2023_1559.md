@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Herhaalde WW-aanvragen. Verzoek om terug te komen van: geen nieuwe feiten of veranderde omstandigheden. Appellant heeft niet alsnog aannemelijk gemaakt dat hij beschikbaar was voor arbeid..
+Herhaalde WW-aanvragen. Verzoek om terug te komen van het besluit van 2 februari 2021, waarin is beslist dat appellant geen WW-uitkering krijgt per 1 november 2020; geen nieuwe feiten of veranderde omstandigheden. Appellant heeft niet alsnog aannemelijk gemaakt dat hij beschikbaar was voor arbeid.
 
 ## Uitspraak
 
