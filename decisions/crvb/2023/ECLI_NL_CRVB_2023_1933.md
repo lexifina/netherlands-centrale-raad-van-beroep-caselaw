@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2023:1933"
-published_in: ["Rechtspraak.nl", "ABkort 2023/276", "NJB 2023/2574", "USZ 2023/326", "JWWB 2023/236", "JB 2023/236 met annotatie van C.B. Modderman", "AB 2024/26 met annotatie van L.M. Koenraad", "V-N Vandaag 2024/432", "V-N 2024/13.17 met annotatie van Redactie", "JIN 2024/52 met annotatie van C.B. Modderman"]
+published_in: ["Rechtspraak.nl", "ABkort 2023/276", "NJB 2023/2574", "USZ 2023/326", "JWWB 2023/236", "JB 2023/236 met annotatie van C.B. Modderman", "AB 2024/26 met annotatie van L.M. Koenraad", "V-N Vandaag 2024/432", "V-N 2024/13.17", "JIN 2024/52 met annotatie van C.B. Modderman"]
 ---
 
 # ECLI:NL:CRVB:2023:1933 Centrale Raad van Beroep , 17-10-2023 / 20/3536 PW
