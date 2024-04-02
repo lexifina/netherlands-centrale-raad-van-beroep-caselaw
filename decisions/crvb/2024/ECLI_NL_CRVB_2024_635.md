@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2024:635"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/65", "V-N Vandaag 2024/791", "ABkort 2024/71", "NJB 2024/892", "JWWB 2024/76", "V-N 2024/19.20 met annotatie van Redactie", "AB 2024/139 met annotatie van L.M. Koenraad", "NTFR 2024/835 met annotatie van drs. M.T.M. Hennevelt", "NDFR Nieuws 2024/825", "JB 2024/88", "RSV 2024/96", "NLF 2024/1245 met annotatie van Angelique Perdaems", "FED 2024/70 met annotatie van G.C.D. Grauss"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2024/65", "V-N Vandaag 2024/791", "ABkort 2024/71", "NJB 2024/892", "JWWB 2024/76", "V-N 2024/19.20", "AB 2024/139 met annotatie van L.M. Koenraad", "NTFR 2024/835 met annotatie van drs. M.T.M. Hennevelt", "NDFR Nieuws 2024/825", "JB 2024/88", "RSV 2024/96", "NLF 2024/1245 met annotatie van Angelique Perdaems", "FED 2024/70 met annotatie van G.C.D. Grauss"]
 ---
 
 # ECLI:NL:CRVB:2024:635 Centrale Raad van Beroep , 02-04-2024 / 22/3673 WMO15
