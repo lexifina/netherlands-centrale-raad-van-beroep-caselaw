@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2024:748"
-published_in: ["Rechtspraak.nl", "RSV 2024/85", "Sdu Nieuws Bestuursrecht 2024/78", "V-N Vandaag 2024/967", "V-N 2024/22.19 met annotatie van Redactie", "JB 2024/113", "NJB 2024/1075", "USZ 2024/190 met annotatie van mr. dr. L.M. Koenraad", "AB 2024/333 met annotatie van R. Grimbergen, M.W. Venderbos"]
+published_in: ["Rechtspraak.nl", "RSV 2024/85", "Sdu Nieuws Bestuursrecht 2024/78", "V-N Vandaag 2024/967", "V-N 2024/22.19 met annotatie van Redactie", "JB 2024/113", "NJB 2024/1075", "USZ 2024/190 met annotatie van mr. dr. L.M. Koenraad", "AB 2024/333 met annotatie van M.W. Venderbos, R. Grimbergen"]
 ---
 
 # ECLI:NL:CRVB:2024:748 Centrale Raad van Beroep , 18-04-2024 / 22/967 AKW
