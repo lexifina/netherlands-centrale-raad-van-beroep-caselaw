@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2024:1489"
 published_in: ["Rechtspraak.nl", "USZ 2024/260", "V-N Vandaag 2024/1996", "V-N 2024/47.1.2"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:958"]]
 ---
 
 # ECLI:NL:CRVB:2024:1489 Centrale Raad van Beroep , 18-07-2024 / 23/3018 AOW
