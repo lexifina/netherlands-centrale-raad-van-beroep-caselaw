@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2024:1518"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0147"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0147", "PR-Updates.nl 2024-0147"]
 ---
 
 # ECLI:NL:CRVB:2024:1518 Centrale Raad van Beroep , 25-07-2024 / 23/1326 MPW
