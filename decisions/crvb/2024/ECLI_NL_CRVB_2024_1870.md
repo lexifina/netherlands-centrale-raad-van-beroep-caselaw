@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "ABkort 2024/202", "JWWB 2024/194", "RSV 2025/4
 
 ## Inhoudsindicatie
 
-Toepassing artikel 8:90 Awb. Afwijzing verzoek om schadevergoeding. Tegen de afwijzing van het verzoek om schadevergoeding als bedoeld in art. 8:90, tweede lid, Awb staat geen beroep open (artikel 8:4, eerste lid, aanhef en onder f, Awb). Het bestuur was daarom niet bevoegd om te beslissen op het bezwaar van appellante tegen het besluit tot afwijzing van het schadeverzoek. De Raad merkt het bezwaar van appellante aan als een verzoek in de zin van 8:90, eerste lid, Awb en als doorgezonden met toepassing van art. 6:15 Awb en wijst dit verzoek af. Appellante heeft alleen al geen recht op schadevergoeding omdat de brutering van de bijstand, die volgens appellante de schade heeft veroorzaakt, ongedaan is gemaakt.
+Deze uitspraak is gerectificeerd met ECLI:NL:CRVB:2026:916. De gerectificeerde tekst is opgenomen in ECLI:NL:CRVB:2024:2466, onderstaande tekst is niet meer geldig.
 
 ## Uitspraak
 
