@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1911"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/139 met annotatie van I.M. Lunenburg"]
 ---
 
 # ECLI:NL:CRVB:2025:1911 Centrale Raad van Beroep , 06-06-2025 / 24/506 WMO15
