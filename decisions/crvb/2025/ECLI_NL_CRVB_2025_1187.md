@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-De Raad wijst het verzoek om voorlopige voorziening af. Geen schorsing werking nieuw besluit. Opleggen van een disciplinaire straf door plaatsing in een andere functie en rangverlaging. Geen spoedeisend belang van financiële aard.
+De Raad wijst het verzoek om voorlopige voorziening af. Plaatsing in een andere, lagere functie en rangverlaging. Geen spoedeisend belang van financiële aard. Beslissingen zijn niet dermate belastend dat een voorlopige voorziening moet worden getroffen.
 
 ## Uitspraak
 
