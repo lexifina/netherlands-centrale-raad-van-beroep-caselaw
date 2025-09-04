@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1334"
-published_in: ["Rechtspraak.nl", "PJ 2025/124", "RSV 2026/25"]
+published_in: ["Rechtspraak.nl", "PJ 2025/124", "RSV 2026/25", "PR-Updates.nl 2025-0183"]
 ---
 
 # ECLI:NL:CRVB:2025:1334 Centrale Raad van Beroep , 04-09-2025 / 21/428 WW
