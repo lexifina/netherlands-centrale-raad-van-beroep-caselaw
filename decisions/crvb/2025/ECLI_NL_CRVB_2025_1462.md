@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1462"
-published_in: ["Rechtspraak.nl", "NJB 2025/2484", "USZ 2025/298", "AB 2026/31 met annotatie van M.W. Venderbos"]
+published_in: ["Rechtspraak.nl", "NJB 2025/2484", "USZ 2025/298", "AB 2026/31 met annotatie van M.W. Venderbos", "RSV 2026/132"]
 ---
 
 # ECLI:NL:CRVB:2025:1462 Centrale Raad van Beroep , 02-10-2025 / 24/1647 WMO15
