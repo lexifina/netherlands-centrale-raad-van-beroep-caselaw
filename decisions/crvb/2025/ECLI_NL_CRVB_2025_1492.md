@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Vervallenverklaring. Schending van fundamentele (proces)rechten, waaronder artikel 8:69, eerste lid, van de Algemene wet bestuursrecht (Awb) in verbinding met artikel 8:108 van de Awb. Uit intern onderzoek door de Raad is gebleken dat het e-mailbericht van 31 december 2024 wel door de Raad is ontvangen, maar niet op de juiste wijze is verwerkt. Het e-mailbericht van 31 december 2024 is niet in het papieren en ook niet in het digitale dossier opgenomen. De Raad heeft daarvan voor het doen van uitspraak geen kennis genomen. Hierdoor is ten onrechte uitspraak gedaan zonder daarbij de reactie van appellant op de brief van het Uwv van 27 november 2024 en het daarbij gevoegde nadere besluit van 19 november 2024 te betrekken.
+Vervallenverklaring. Schending van fundamentele (proces)rechten, waaronder artikel 8:69, eerste lid, van de Algemene wet bestuursrecht (Awb) in verbinding met artikel 8:108 van de Awb. Uit intern onderzoek door de Raad is gebleken dat het e-mailbericht van 31 december 2024 wel door de Raad is ontvangen, maar niet op de juiste wijze is verwerkt. Het e-mailbericht van 31 december 2024 is niet in het papieren en ook niet in het digitale dossier opgenomen. De Raad heeft daarvan voor het doen van uitspraak geen kennis genomen. Hierdoor is ten onrechte uitspraak gedaan zonder daarbij de reactie van appellant op de brief van het Uwv van 27 november 2024 en het daarbij gevoegde nadere besluit van 19 november 2024 te betrekken. Zie ECLI:NL:CRVB:2026:516 met de uitspraak na vervallenverklaring op het hoger beroep.
 
 ## Uitspraak
 
