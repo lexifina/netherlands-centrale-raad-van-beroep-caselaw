@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1523"
-published_in: ["Rechtspraak.nl", "JWWB 2025/226"]
+published_in: ["Rechtspraak.nl", "JWWB 2025/226", "AB 2026/167 met annotatie van L.J.A. Damen"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:8942, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
