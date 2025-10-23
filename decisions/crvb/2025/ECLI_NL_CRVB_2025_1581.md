@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1581"
 published_in: ["Rechtspraak.nl", "USZ 2025/313"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2024:1058, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:CRVB:2025:1581 Centrale Raad van Beroep , 23-10-2025 / 24/1026 WIA
