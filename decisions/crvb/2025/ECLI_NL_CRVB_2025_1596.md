@@ -10,13 +10,14 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1596"
 published_in: ["Rechtspraak.nl", "JWWB 2025/242"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1174"]]
 ---
 
 # ECLI:NL:CRVB:2025:1596 Centrale Raad van Beroep , 28-10-2025 / 23/379 PW
 
 ## Inhoudsindicatie
 
-Afwijzing aanvraag. Bijzondere bijstand voor kosten saneringskrediet. Schuld. Procesbeslissingen rechtbank. Schadevergoeding wegens overschrijding redelijke termijn. De kosten waarvoor appellant bijzondere bijstand heeft aangevraagd moeten als schuld worden aangemerkt. Met het saneringskrediet heeft het college immers de schulden van appellant overeenkomstig de afspraken met de schuldeisers overgenomen van appellant. In plaats van een schuld aan de schuldeisers heeft appellant nu een schuld aan het college die hij moet afbetalen. Dit betekent dat art. 13 lid 1 onder g PW aan bijstandsverlening in de weg staat, aangezien appellant beschikt(e) over de middelen om te voorzien in de noodzakelijke kosten van het bestaan.
+Deze uitspraak is gerectificeerd. De gerectificeerde tekst is opgenomen in ECLI:NL:CRVB:2025:1788, onderstaande tekst is niet meer geldig.
 
 ## Uitspraak
 
