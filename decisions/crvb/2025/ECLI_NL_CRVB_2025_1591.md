@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1591"
 published_in: ["Rechtspraak.nl", "JWWB 2025/235"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1157"]]
 ---
 
 # ECLI:NL:CRVB:2025:1591 Centrale Raad van Beroep , 28-10-2025 / 22/3786 PW
