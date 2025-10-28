@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1597"
-published_in: ["Rechtspraak.nl", "ABkort 2025/211", "JWWB 2025/233", "JB 2026/13", "USZ 2026/48 met annotatie van M.J. Hüsen"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/211", "JWWB 2025/233", "JB 2026/13", "USZ 2026/48 met annotatie van M.J. Hüsen", "O&A 2026/27 met annotatie van A.M.L. Jansen"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1156"]]
 ---
 
 # ECLI:NL:CRVB:2025:1597 Centrale Raad van Beroep , 28-10-2025 / 23/2862 PW
