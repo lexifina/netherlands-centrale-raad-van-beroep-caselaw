@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Proces-verbaal"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1590"
-published_in: ["Rechtspraak.nl", "ABkort 2025/210", "JB 2026/30 met annotatie van mr. J.H. Keinemans"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/210", "JB 2026/30 met annotatie van mr. J.H. Keinemans", "JIN 2026/101 met annotatie van mr. J.H. Keinemans"]
 ---
 
 # ECLI:NL:CRVB:2025:1590 Centrale Raad van Beroep , 30-10-2025 / 25/898 PW-W-PV
