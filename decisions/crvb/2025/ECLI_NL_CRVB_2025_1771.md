@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2025:1771"
-published_in: ["Rechtspraak.nl", "JWWB 2026/4", "USZ 2026/34"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/4", "USZ 2026/34", "AB 2026/166 met annotatie van L.J.A. Damen"]
 ---
 
 # ECLI:NL:CRVB:2025:1771 Centrale Raad van Beroep , 25-11-2025 / 23/2610 PW
