@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:11"
-published_in: ["Rechtspraak.nl", "NJB 2026/204", "O&A 2026/11", "JB 2026/59"]
+published_in: ["Rechtspraak.nl", "NJB 2026/204", "O&A 2026/11", "JB 2026/59", "PR-Updates.nl 2026-0035"]
 ---
 
 # ECLI:NL:CRVB:2026:11 Centrale Raad van Beroep , 07-01-2026 / 20/1846 WIA
