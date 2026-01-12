@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:CRVB:2026:4"
 court: "Centrale Raad van Beroep"
 court_code: "CRVB"
-docket: "25/291 ANW"
+docket: "25/294 ANW"
 decided: "2026-01-12"
 published: "2026-01-13"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:4"
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:CRVB:2026:4 Centrale Raad van Beroep , 12-01-2026 / 25/291 ANW
+# ECLI:NL:CRVB:2026:4 Centrale Raad van Beroep , 12-01-2026 / 25/294 ANW
 
 ## Inhoudsindicatie
 
