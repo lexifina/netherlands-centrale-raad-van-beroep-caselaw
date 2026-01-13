@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:55"
-published_in: ["Rechtspraak.nl", "NJB 2026/262", "USZ 2026/56"]
+published_in: ["Rechtspraak.nl", "NJB 2026/262", "USZ 2026/56", "TRA 2026/72 met annotatie van G.R. Oldenhuis"]
 ---
 
 # ECLI:NL:CRVB:2026:55 Centrale Raad van Beroep , 13-01-2026 / 22/2396 WIA
