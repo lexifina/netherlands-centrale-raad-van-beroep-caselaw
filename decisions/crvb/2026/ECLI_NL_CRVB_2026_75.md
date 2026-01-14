@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:75"
-published_in: ["Rechtspraak.nl", "NJB 2026/323", "USZ 2026/60"]
+published_in: ["Rechtspraak.nl", "NJB 2026/323", "USZ 2026/60", "RSV 2026/78"]
 ---
 
 # ECLI:NL:CRVB:2026:75 Centrale Raad van Beroep , 14-01-2026 / 24/1907 NOW
