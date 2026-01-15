@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:58"
-published_in: ["Rechtspraak.nl", "RSV 2026/27", "USZ 2026/58"]
+published_in: ["Rechtspraak.nl", "RSV 2026/27", "USZ 2026/58", "TRA 2026/50 met annotatie van L. van den Berg"]
 ---
 
 # ECLI:NL:CRVB:2026:58 Centrale Raad van Beroep , 15-01-2026 / 24/948 WIA
