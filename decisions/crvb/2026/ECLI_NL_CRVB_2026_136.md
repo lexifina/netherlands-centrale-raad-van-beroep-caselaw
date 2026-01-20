@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "JWWB 2026/49", "USZ 2026/93 met annotatie van 
 
 ## Inhoudsindicatie
 
-Afwijzing aanvraag. Onduidelijke financiële situatie. Recht vaststellen. Toekenning bijstand. Afstemming. Substantiële besparing. Zelf voorzien. Schadevergoeding redelijke termijn. Vast staat dat het kentekenbewijs van de auto op naam van appellant geregistreerd staat en dat hij ook de feitelijke beschikking had over die auto. Verder is niet in geschil dat de moeder van appellant ten tijde hier van belang een bedrag van in totaal € 196,50 per maand voor de wegenbelasting en de verzekering van de auto rechtstreeks heeft betaald aan de Belastingdienst en de verzekeringsmaatschappij. Daarmee werd voorzien in kosten die behoren tot de algemeen noodzakelijke kosten van het bestaan van appellant. Doordat hij deze kosten niet meer zelf hoefde te voldoen uit de bijstandsnorm, leverde dit hem een substantiële besparing op. Aangezien appellant niet vrij kunnen beschikken de bedragen die zijn moeder overmaakte, kan alleen al daarom geen sprake zijn van een op grond van artikel 31, tweede lid, aanhef en onder m, van de PW voor de middelen vrij te laten gift.
+Deze uitspraak is gerectificeerd met ECLI:NL:CRVB:2026:811. De gerectificeerde tekst is opgenomen in ECLI:NL:CRVB:2026:812, onderstaande tekst is niet meer geldig.
 
 ## Uitspraak
 
