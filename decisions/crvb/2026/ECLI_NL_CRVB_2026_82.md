@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:82"
-published_in: ["Rechtspraak.nl", "USZ 2026/84"]
+published_in: ["Rechtspraak.nl", "USZ 2026/84", "RSV 2026/79"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:4076, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
