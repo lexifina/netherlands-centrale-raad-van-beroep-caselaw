@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:119"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TAR 2026/14"]
 ---
 
 # ECLI:NL:CRVB:2026:119 Centrale Raad van Beroep , 22-01-2026 / 23/3400 POL
