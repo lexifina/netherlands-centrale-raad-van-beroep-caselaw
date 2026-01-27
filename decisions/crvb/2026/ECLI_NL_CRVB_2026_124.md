@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:124"
-published_in: ["Rechtspraak.nl", "RSV 2026/39", "JWWB 2026/46"]
+published_in: ["Rechtspraak.nl", "RSV 2026/39", "JWWB 2026/46", "USZ 2026/109 met annotatie van I.M. Lunenburg"]
 ---
 
 # ECLI:NL:CRVB:2026:124 Centrale Raad van Beroep , 27-01-2026 / 24/1622 PW
