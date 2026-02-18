@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:230"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2022:2722, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:CRVB:2026:230 Centrale Raad van Beroep , 18-02-2026 / 22/2366 ZW
