@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:159"
-published_in: ["Rechtspraak.nl", "ABkort 2026/66", "NJB 2026/493", "USZ 2026/95 met annotatie van mr. A. Wit, mr. dr. L.M. Koenraad"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/66", "NJB 2026/493", "USZ 2026/95 met annotatie van mr. A. Wit, mr. dr. L.M. Koenraad", "TRA 2026/62 met annotatie van P.S. Fluit"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:5735, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
