@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:282"
-published_in: ["Rechtspraak.nl", "NJB 2026/667", "JWWB 2026/72"]
+published_in: ["Rechtspraak.nl", "NJB 2026/667", "JWWB 2026/72", "AB 2026/112 met annotatie van T.H.G. Robbe", "USZ 2026/116 met annotatie van I.M. Lunenburg"]
 ---
 
 # ECLI:NL:CRVB:2026:282 Centrale Raad van Beroep , 25-02-2026 / 25/244 WMO15
