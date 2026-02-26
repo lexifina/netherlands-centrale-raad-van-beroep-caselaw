@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:225"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TAR 2026/15"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:6362, Bekrachtiging/bevestiging"]]
 ---
 
