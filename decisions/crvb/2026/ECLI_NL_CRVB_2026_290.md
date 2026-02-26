@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:290"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/140 met annotatie van L.M. Koenraad", "USZ 2026/137 met annotatie van mr. dr. L.M. Koenraad"]
 ---
 
 # ECLI:NL:CRVB:2026:290 Centrale Raad van Beroep , 26-02-2026 / 25/791 BABW
