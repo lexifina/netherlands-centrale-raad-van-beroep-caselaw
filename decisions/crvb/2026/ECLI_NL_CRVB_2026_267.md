@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:267"
-published_in: ["Rechtspraak.nl", "NBR-Pw/2026/007 met annotatie van mr. Lance op den Camp", "JWWB 2026/61"]
+published_in: ["Rechtspraak.nl", "NBR-Pw/2026/007 met annotatie van mr. Lance op den Camp", "JWWB 2026/61", "NBR-Pw/2026/008 met annotatie van mr. Lance op den Camp", "RSV 2026/83", "USZ 2026/162 met annotatie van mr. drs. M. Otte"]
 ---
 
 # ECLI:NL:CRVB:2026:267 Centrale Raad van Beroep , 03-03-2026 / 24/1228 PW
