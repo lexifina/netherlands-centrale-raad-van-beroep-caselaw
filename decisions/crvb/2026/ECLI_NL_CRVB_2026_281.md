@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:281"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TAR 2026/22"]
 ---
 
 # ECLI:NL:CRVB:2026:281 Centrale Raad van Beroep , 04-03-2026 / 24/19 WAD e.v.
