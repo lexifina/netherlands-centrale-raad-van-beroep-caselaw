@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:304"
-published_in: ["Rechtspraak.nl", "ABkort 2026/94", "NJB 2026/724", "JWWB 2026/63"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/94", "NJB 2026/724", "JWWB 2026/63", "JB 2026/87 met annotatie van Redactie", "AB 2026/151 met annotatie van L.J.A. Damen"]
 ---
 
 # ECLI:NL:CRVB:2026:304 Centrale Raad van Beroep , 10-03-2026 / 24/2217 PW
