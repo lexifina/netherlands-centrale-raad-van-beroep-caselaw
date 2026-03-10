@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:299"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/142 met annotatie van M.J. Hüsen"]
 ---
 
 # ECLI:NL:CRVB:2026:299 Centrale Raad van Beroep , 10-03-2026 / 26/179 PW-PV
