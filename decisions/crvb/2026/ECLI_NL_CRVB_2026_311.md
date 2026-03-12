@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:311"
-published_in: ["Rechtspraak.nl", "USZ 2026/104"]
+published_in: ["Rechtspraak.nl", "USZ 2026/104", "RSV 2026/138"]
 ---
 
 # ECLI:NL:CRVB:2026:311 Centrale Raad van Beroep , 12-03-2026 / 24/2679 WMO15
