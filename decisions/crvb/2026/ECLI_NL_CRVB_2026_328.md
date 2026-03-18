@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:328"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2025:3068, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:CRVB:2026:328 Centrale Raad van Beroep , 18-03-2026 / 25/589 WMO15
