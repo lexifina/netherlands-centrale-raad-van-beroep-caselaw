@@ -10,13 +10,14 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:336"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Rectificatiebesluit: ECLI:NL:CRVB:2026:810"], ["Formele relatie", "Uitspraak na rectificatie: ECLI:NL:CRVB:2026:809"]]
 ---
 
 # ECLI:NL:CRVB:2026:336 Centrale Raad van Beroep , 19-03-2026 / 23/398 AW
 
 ## Inhoudsindicatie
 
-Op basis van het rapport van een door de Raad ingeschakelde deskundige oordeelt de Raad dat het appellante, gelet op haar psychische gezondheidstoestand, niet redelijkerwijs kan worden verweten dat zij geen WIA-uitkering heeft aangevraagd. Voor het treffen van rechtspositionele maatregelen in verband met het niet aanvragen van een WIA-uitkering was dan ook geen grondslag. Wel is terecht overgegaan tot een impasseontslag omdat voortzetting van het dienstverband in redelijkheid niet meer gevergd kon worden.
+Deze uitspraak is gerectificeerd met ECLI:NL:CRVB:2026:810. De gerectificeerde tekst is opgenomen in ECLI:NL:CRVB:2026:809, onderstaande tekst is niet meer geldig.
 
 ## Uitspraak
 
@@ -68,7 +69,7 @@ Met ingang van 1 januari 2020 is de Ambtenarenwet gewijzigd en Ambtenarenwet 201
 
 1.2.
 
-Appellante was sinds 2008 in dienst van de gemeente Westland in de functie van [naam functie] . Zij heeft zich op 26 maart 2013 gedeeltelijk ziekgemeld en vanaf 12 december 2013 is zij volledig arbeidsongeschikt.
+Appellante was sinds 2008 in dienst van [werkgever] in de functie van [naam functie] . Zij heeft zich op 26 maart 2013 gedeeltelijk ziekgemeld en vanaf 12 december 2013 is zij volledig arbeidsongeschikt.
 
 1.3.
 
