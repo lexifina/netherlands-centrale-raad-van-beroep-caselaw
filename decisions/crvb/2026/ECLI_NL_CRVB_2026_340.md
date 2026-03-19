@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:340"
-published_in: ["Rechtspraak.nl", "ABkort 2026/93", "NJB 2026/725"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/93", "NJB 2026/725", "TAR 2026/24"]
 ---
 
 # ECLI:NL:CRVB:2026:340 Centrale Raad van Beroep , 19-03-2026 / 25/1453 RM
