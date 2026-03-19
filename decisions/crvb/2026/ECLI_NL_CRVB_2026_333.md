@@ -10,13 +10,14 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:333"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Rectificatiebesluit: ECLI:NL:CRVB:2026:892"], ["Formele relatie", "Uitspraak na rectificatie: ECLI:NL:CRVB:2026:893"]]
 ---
 
 # ECLI:NL:CRVB:2026:333 Centrale Raad van Beroep , 19-03-2026 / 23/3264 AW
 
 ## Inhoudsindicatie
 
-Appellante is per [datum] overgegaan van de gemeente Amsterdam naar de Omgevingsdienst. De inpassing van oude functie van appellante in de HR21 normfunctie Beleidsuitvoering II, met als bijbehorende salarisschaal 9, acht de Raad onhoudbaar. De Raad voorziet zelf in de zaak en bepaalt dat inpassing in de HR21 normfunctie Medewerker Ontwerp & Voorbereiding III, met als bijbehorende salarisschaal 10, wel houdbaar is.
+Deze uitspraak is gerectificeerd met ECLI:NL:CRVB:2026:892. De gerectificeerde tekst is opgenomen in ECLI:NL:CRVB:2026:893, onderstaande tekst is niet meer geldig.
 
 ## Uitspraak
 
@@ -38,7 +39,7 @@ Datum uitspraak: 19 maart 2026
 
 SAMENVATTING
 
-Appellante is per [datum] overgegaan van de gemeente Amsterdam naar de Omgevingsdienst. De inpassing van oude functie van appellante in de HR21 normfunctie Beleidsuitvoering II, met als bijbehorende salarisschaal 9, acht de Raad onhoudbaar. De Raad voorziet zelf in de zaak en bepaalt dat inpassing in de HR21 normfunctie Medewerker Ontwerp & Voorbereiding III, met als bijbehorende salarisschaal 10, wel houdbaar is.
+Appellante is per 1 januari 2014 overgegaan van de gemeente Amsterdam naar de Omgevingsdienst. De inpassing van oude functie van appellante in de HR21 normfunctie Beleidsuitvoering II, met als bijbehorende salarisschaal 9, acht de Raad onhoudbaar. De Raad voorziet zelf in de zaak en bepaalt dat inpassing in de HR21 normfunctie Medewerker Ontwerp & Voorbereiding III, met als bijbehorende salarisschaal 10, wel houdbaar is.
 
 PROCESVERLOOP
 
@@ -54,19 +55,19 @@ Met ingang van 1 januari 2020 is de Ambtenarenwet gewijzigd en Ambtenarenwet 201
 
 Bij de beoordeling van het hoger beroep zijn de volgende feiten en omstandigheden van belang.
 
-Functies verricht bij de gemeente Amsterdam tot [datum]
+Functies verricht bij de gemeente Amsterdam tot 1 januari 2014
 
 2.1.
 
-Appellante was werkzaam bij de afdeling [afdeling], Team [team] van het Stadsdeel [stadsdeel] in de functie [naam functie] ( [functie] ). In verband met een reorganisatie van deze afdeling is appellante met een besluit van 23 december 2009 met ingang van 1 september 2009 geplaatst in de generieke functie van Medewerker Vergunningen C , salarisschaal 10. Het bezwaar daartegen is ongegrond verklaard met een besluit van 13 juli 2010. Dit besluit heeft in beroep en in hoger beroep standgehouden.
+Appellante was werkzaam bij de afdeling [afdeling 1] , Team [team] van het Stadsdeel [stadsdeel] van de gemeente Amsterdam in de functie [naam functie] ( [functie] ). In verband met een reorganisatie van deze afdeling is appellante met een besluit van 23 december 2009 met ingang van 1 september 2009 geplaatst in de generieke functie van Medewerker Vergunningen C , salarisschaal 10. Het bezwaar daartegen is ongegrond verklaard met een besluit van 13 juli 2010. Dit besluit heeft in beroep en in hoger beroep standgehouden.
 
 2.2.
 
-Met een besluit van 30 augustus 2012 is appellante in het kader van een reorganisatie met behoud van rechtspositie en generieke en specifieke functie per 1 september 2012 geplaatst binnen de afdeling [naam afdeling] van de directie [naam directie].
+Met een besluit van 30 augustus 2012 is appellante in het kader van een reorganisatie met behoud van rechtspositie en generieke en specifieke functie per 1 september 2012 geplaatst binnen de afdeling [afdeling 2] van de directie [naam directie] .
 
 2.3.
 
-In verband met overdracht van taken van de afdeling [naam afdeling] aan de Omgevingsdienst Noordzeekanaalgebied (Omgevingsdienst) is aan appellante met ingang van [datum] ontslag verleend en is zij per diezelfde datum in dienst getreden bij de Omgevingsdienst.
+In verband met overdracht van taken van de afdeling [afdeling 2] aan de Omgevingsdienst Noordzeekanaalgebied (Omgevingsdienst) is aan appellante met ingang van 1 januari 2014 ontslag verleend en is zij per diezelfde datum in dienst getreden bij de Omgevingsdienst.
 
 2.4.
 
@@ -76,11 +77,11 @@ Met een besluit van 23 juli 2015 heeft het college van burgemeester en wethouder
 
 Ter uitvoering van de uitspraak van 12 oktober 2017 heeft het college een externe deskundige (bureau Leeuwendaal) verzocht nader advies uit te brengen over de waardering van de functie van [functie] . Met een besluit van 21 maart 2018 heeft het college het besluit van 23 juli 2015 in stand gelaten. Bij uitspraak van 16 mei 2019 heeft de Raad het beroep tegen het besluit van 21 maart 2018 gegrond verklaard en dat besluit vernietigd. De Raad heeft zelf in de zaak voorzien door te bepalen dat de functie van [functie] per 31 augustus 2009 wordt gewaardeerd op salarisschaal 10A. Daarbij heeft de Raad vastgesteld dat het in die zaak ging om de waardering van de functie van [functie] die appellante tot 23 december 2009 heeft uitgeoefend.
 
-Overgang naar de Omgevingsdienst per [datum]
+Overgang naar de Omgevingsdienst per 1 januari 2014
 
 2.6.
 
-In verband met de overgang naar de Omgevingsdienst heeft het dagelijks bestuur appellante met een besluit van 10 december 2013 geplaatst in de functie van [functie] III. Daarbij is vermeld dat de werkzaamheden van appellante voorlopig zijn gekoppeld aan de HR21 functiebeschrijving van Medewerker Ontwerp & Voorbereiding III, met indicatieve functieschaal 10. Op grond van het Sociaal Plan Omgevingsdienst Noordzeekanaalgebied is aan appellante een garantietoelage toegekend, uitgaande van gemeentelijke schaal 10. In verband met de in 2.5 genoemde uitspraak van de Raad van 16 mei 2019 heeft het dagelijks bestuur deze garantietoelage met een besluit van 25 september 2019 vanaf [datum] verhoogd als ware appellante ingeschaald in gemeentelijke schaal 10A.
+In verband met de overgang naar de Omgevingsdienst heeft het dagelijks bestuur appellante met een besluit van 10 december 2013 geplaatst in de functie van [functie] III. Daarbij is vermeld dat de werkzaamheden van appellante voorlopig zijn gekoppeld aan de HR21 functiebeschrijving van Medewerker Ontwerp & Voorbereiding III, met indicatieve functieschaal 10. Op grond van het Sociaal Plan Omgevingsdienst Noordzeekanaalgebied is aan appellante een garantietoelage toegekend, uitgaande van gemeentelijke schaal 10. In verband met de in 2.5 genoemde uitspraak van de Raad van 16 mei 2019 heeft het dagelijks bestuur deze garantietoelage met een besluit van 25 september 2019 vanaf 1 januari 2014 verhoogd als ware appellante ingeschaald in gemeentelijke schaal 10A.
 
 2.7.
 
@@ -110,7 +111,7 @@ De rechtbank heeft het beroep tegen het bestreden besluit gegrond verklaard en h
 
 3.2.
 
-De rechtbank heeft verder, voor zover nu nog van belang, het volgende overwogen. Volgens de rechtbank is het bestreden besluit zorgvuldig tot stand gekomen en heeft de indelingscommissie terecht de functie van Medewerker Vergunningen C als uitgangspunt genomen. De rechtbank heeft gewezen op vaste rechtspraak van de Raad die inhoudt dat de rechterlijke toetsing bij de inpassing in een generieke functie terughoudend is. Die toetsing is beperkt tot de vraag of de inpassing op voldoende gronden berust. Dit betekent dat de bestreden inpassing niet in stand kan blijven als deze onhoudbaar is. Daarvoor is ontoereikend dat inpassing in een ander, hoger gewaardeerd functieprofiel op zichzelf verdedigbaar is. Naar het oordeel van de rechtbank is de inpassing van appellante in de functiereeks Beleid, functiegroep Beleidsuitvoering en in de HR21 normfunctie Beleidsuitvoering II niet onhoudbaar. De rechtbank heeft verder geconstateerd dat de functie van Medewerker Beleidsuitvoering II is gewaardeerd met salarisschaal 9, wat een verlaging is ten opzichte van de eerder vastgestelde waardering, zijnde salarisschaal 10. Tot een financiële benadeling heeft dit echter niet geleid, omdat het dagelijks bestuur appellante over de periode van [datum] tot en met oktober 2019 financieel in de positie heeft gebracht alsof zij met salarisschaal 10A is overgekomen vanuit de gemeente Amsterdam. Tot slot heeft de rechtbank het door appellante gedane beroep op het gelijkheidsbeginsel verworpen.
+De rechtbank heeft verder, voor zover nu nog van belang, het volgende overwogen. Volgens de rechtbank is het bestreden besluit zorgvuldig tot stand gekomen en heeft de indelingscommissie terecht de functie van Medewerker Vergunningen C als uitgangspunt genomen. De rechtbank heeft gewezen op vaste rechtspraak van de Raad die inhoudt dat de rechterlijke toetsing bij de inpassing in een generieke functie terughoudend is. Die toetsing is beperkt tot de vraag of de inpassing op voldoende gronden berust. Dit betekent dat de bestreden inpassing niet in stand kan blijven als deze onhoudbaar is. Daarvoor is ontoereikend dat inpassing in een ander, hoger gewaardeerd functieprofiel op zichzelf verdedigbaar is. Naar het oordeel van de rechtbank is de inpassing van appellante in de functiereeks Beleid, functiegroep Beleidsuitvoering en in de HR21 normfunctie Beleidsuitvoering II niet onhoudbaar. De rechtbank heeft verder geconstateerd dat de functie van Medewerker Beleidsuitvoering II is gewaardeerd met salarisschaal 9, wat een verlaging is ten opzichte van de eerder vastgestelde waardering, zijnde salarisschaal 10. Tot een financiële benadeling heeft dit echter niet geleid, omdat het dagelijks bestuur appellante over de periode van 1 januari 2014 tot en met oktober 2019 financieel in de positie heeft gebracht alsof zij met salarisschaal 10A is overgekomen vanuit de gemeente Amsterdam. Tot slot heeft de rechtbank het door appellante gedane beroep op het gelijkheidsbeginsel verworpen.
 
 Het standpunt van appellante
 
@@ -162,7 +163,7 @@ De Raad komt op grond van het voorgaande tot de conclusie dat de inpassing in de
 
 5.5.7.
 
-Het beroep op het vertrouwensbeginsel tot slot slaagt niet. De uitspraak van de Raad van 16 mei 2019 heeft geen betrekking op de inpassing maar op de waardering van de functie die appellante tot 1 september 2009 bij de gemeente Amsterdam vervulde (zie hierboven onder 5.3). Appellante heeft aangevoerd dat de bewuste toezegging (garantie) zowel betrekking had op de uitbetaling als de plaatsing als zodanig en dat de gekozen inpassing daarmee in strijd is. Het dagelijks bestuur heeft dit betwist en gesteld dat bij de Omgevingsdienst schaal 10A niet bestaat en dat de garantietoelage is verhoogd met ingang van [datum] tot datum uitdiensttreding bij de Omgevingsdienst als ware appellante ingeschaald in 10A bij de gemeente Amsterdam. Het dagelijks bestuur stelt niet ten onrechte dat het te ver zou gaan om speciaal voor appellante een nieuwe schaal te creëren zodat gekozen is voor het middel van verhoging van de garantietoelage. Een en ander brengt mee dat bij appellante niet het gerechtvaardigd vertrouwen kan zijn ontstaan dat er naast deze garantie die evident betrekking heeft op de uitbetaling ook een inpassing op een naast hogere functie zou volgen.
+Het beroep op het vertrouwensbeginsel tot slot slaagt niet. De uitspraak van de Raad van 16 mei 2019 heeft geen betrekking op de inpassing maar op de waardering van de functie die appellante tot 1 september 2009 bij de gemeente Amsterdam vervulde (zie hierboven onder 5.3). Appellante heeft aangevoerd dat de bewuste toezegging (garantie) zowel betrekking had op de uitbetaling als de plaatsing als zodanig en dat de gekozen inpassing daarmee in strijd is. Het dagelijks bestuur heeft dit betwist en gesteld dat bij de Omgevingsdienst schaal 10A niet bestaat en dat de garantietoelage is verhoogd met ingang van 1 januari 2014 tot datum uitdiensttreding bij de Omgevingsdienst als ware appellante ingeschaald in 10A bij de gemeente Amsterdam. Het dagelijks bestuur stelt niet ten onrechte dat het te ver zou gaan om speciaal voor appellante een nieuwe schaal te creëren zodat gekozen is voor het middel van verhoging van de garantietoelage. Een en ander brengt mee dat bij appellante niet het gerechtvaardigd vertrouwen kan zijn ontstaan dat er naast deze garantie die evident betrekking heeft op de uitbetaling ook een inpassing op een naast hogere functie zou volgen.
 
 Conclusie en gevolgen
 
