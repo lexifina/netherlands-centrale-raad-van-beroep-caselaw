@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:330"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TAR 2026/23", "AB 2026/241 met annotatie van A.M.L. Jansen"]
 ---
 
 # ECLI:NL:CRVB:2026:330 Centrale Raad van Beroep , 19-03-2026 / 23/3100 WAD
