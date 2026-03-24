@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:346"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/82"]
 ---
 
 # ECLI:NL:CRVB:2026:346 Centrale Raad van Beroep , 24-03-2026 / 24/245 PW
