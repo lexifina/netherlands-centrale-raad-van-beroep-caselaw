@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:385"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/74", "USZ 2026/134 met annotatie van I.M. Lunenburg"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:3455, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
