@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:384"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/144 met annotatie van mr. dr. R. Stijnen"]
 ---
 
 # ECLI:NL:CRVB:2026:384 Centrale Raad van Beroep , 24-03-2026 / 23/2207 TONK
