@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:387"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RSV 2026/139"]
 ---
 
 # ECLI:NL:CRVB:2026:387 Centrale Raad van Beroep , 26-03-2026 / 23/2660 WLZ
