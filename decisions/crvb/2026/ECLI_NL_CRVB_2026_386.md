@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:386"
-published_in: ["Rechtspraak.nl", "ABkort 2026/103", "NJB 2026/822"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/103", "NJB 2026/822", "TAR 2026/30"]
 ---
 
 # ECLI:NL:CRVB:2026:386 Centrale Raad van Beroep , 26-03-2026 / 24/364 AW
