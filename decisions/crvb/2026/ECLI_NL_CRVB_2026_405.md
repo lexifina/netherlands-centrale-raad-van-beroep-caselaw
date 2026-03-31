@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:405"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/77"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:6514, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:CRVB:2026:405 Centrale Raad van Beroep , 31-03-2026 / 24/1703 PW
