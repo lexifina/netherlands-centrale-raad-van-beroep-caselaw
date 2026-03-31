@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:418"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/87"]
 ---
 
 # ECLI:NL:CRVB:2026:418 Centrale Raad van Beroep , 31-03-2026 / 24/2534 PW-PV
