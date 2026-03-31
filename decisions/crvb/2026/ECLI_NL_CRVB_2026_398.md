@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:398"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/79", "RSV 2026/74 met annotatie van Redactie", "USZ 2026/154 met annotatie van M.J. Hüsen"]
 ---
 
 # ECLI:NL:CRVB:2026:398 Centrale Raad van Beroep , 31-03-2026 / 23/786 PW
