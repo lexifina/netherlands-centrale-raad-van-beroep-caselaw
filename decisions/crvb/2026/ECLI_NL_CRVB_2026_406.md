@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:406"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/83", "USZ 2026/113"]
 ---
 
 # ECLI:NL:CRVB:2026:406 Centrale Raad van Beroep , 31-03-2026 / 24/1433 PW
