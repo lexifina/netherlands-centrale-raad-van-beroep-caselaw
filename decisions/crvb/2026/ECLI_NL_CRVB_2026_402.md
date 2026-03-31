@@ -9,14 +9,14 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:402"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/84"]
 ---
 
 # ECLI:NL:CRVB:2026:402 Centrale Raad van Beroep , 31-03-2026 / 23/1876 PW
 
 ## Inhoudsindicatie
 
-Afwijzing aanvraag. Schending medewerkingsverplichting. Huisbezoek. Redelijke grond.  Er was sprake van een redelijke grond voor het huisbezoek. Een eerdere aanvraag was afgewezen, omdat de feitelijke woonsituatie niet overeenkwam met de door appellant gedane opgave. In verband met een nieuwe aanvraag heeft appellant niet gesteld dat sprake is van een gewijzigde situatie. Het college kon daarom twijfelen aan de door appellant bij de nieuwe aanvraag opgeven woonsituatie. Dit kon niet op een andere, minder belastende, wijze worden vastgesteld en is niet aannemelijk geworden dat appellant het huisbezoek niet kon voortzetten door de invloed van zijn medicatie.
+Intrekking en terugvordering van bijstand. Boete. Schending inlichtingenverplichting. Inschrijving KvK. Op geld waardeerbare werkzaamheden voor stichting. Recht vaststellen. Geen ongerechtvaardigde inbreuk op recht op privacy. Geen geslaagd beroep op het evenredigheidsbeginsel. Geen dringende redenen. Geen verminderde verwijtbaarheid. Overschrijding redelijke termijn. Het had appellant redelijkerwijs duidelijk moeten zijn dat de inschrijving van de stichting bij de KvK en zijn werkzaamheden voor de stichting van invloed konden zijn op het recht op bijstand en dus gemeld hadden moeten worden. Ook al gaat het om een ideële stichting, dan toch kunnen aan de bestuurders beloningen en/of onkostenvergoedingen toegekend konden worden. Door het ontbreken van een administratie blijft onduidelijk wat de omvang van de werkzaamheden van appellant is geweest en hoeveel inkomsten appellant daaruit heeft ontvangen of had kunnen ontvangen, zodat het recht op bijstand als gevolg van schending van de inlichtingenverplichting niet kan worden vastgesteld.
 
 ## Uitspraak
 
