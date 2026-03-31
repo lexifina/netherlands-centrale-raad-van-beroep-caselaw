@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:404"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/78", "USZ 2026/111"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1463"]]
 ---
 
 # ECLI:NL:CRVB:2026:404 Centrale Raad van Beroep , 31-03-2026 / 22/2887 PW
