@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:407"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RSV 2026/72", "JWWB 2026/76", "USZ 2026/112 met annotatie van mr. dr. L.M. Koenraad"]
 ---
 
 # ECLI:NL:CRVB:2026:407 Centrale Raad van Beroep , 31-03-2026 / 24/305 PW
