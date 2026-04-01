@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:377"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RSV 2026/71", "USZ 2026/107"]
 ---
 
 # ECLI:NL:CRVB:2026:377 Centrale Raad van Beroep , 01-04-2026 / 22/1029 WIA
