@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:372"
-published_in: ["Rechtspraak.nl", "ABkort 2026/102", "NJB 2026/823"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/102", "NJB 2026/823", "USZ 2026/108"]
 ---
 
 # ECLI:NL:CRVB:2026:372 Centrale Raad van Beroep , 02-04-2026 / 23/256 WIA
