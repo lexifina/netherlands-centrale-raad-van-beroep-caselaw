@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:413"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/117"]
 ---
 
 # ECLI:NL:CRVB:2026:413 Centrale Raad van Beroep , 02-04-2026 / 25/699 WLZ
