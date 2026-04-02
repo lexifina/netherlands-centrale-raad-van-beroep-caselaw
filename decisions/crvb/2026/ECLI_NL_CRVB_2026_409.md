@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:409"
-published_in: ["Rechtspraak.nl", "ABkort 2026/112"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/112", "TAR 2026/31", "O&A 2026/31"]
 ---
 
 # ECLI:NL:CRVB:2026:409 Centrale Raad van Beroep , 02-04-2026 / 24/104 WAD
