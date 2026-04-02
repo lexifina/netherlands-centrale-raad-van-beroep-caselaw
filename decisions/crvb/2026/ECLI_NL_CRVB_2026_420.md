@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:420"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/119", "USZ 2026/124", "AB 2026/139 met annotatie van L.J.A. Damen", "JB 2026/113"]
 ---
 
 # ECLI:NL:CRVB:2026:420 Centrale Raad van Beroep , 02-04-2026 / 25/1066 AKW
