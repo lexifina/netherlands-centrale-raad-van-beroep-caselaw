@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:422"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/133 met annotatie van mr. J. Riphagen"]
 ---
 
 # ECLI:NL:CRVB:2026:422 Centrale Raad van Beroep , 02-04-2026 / 24/1673 WW
