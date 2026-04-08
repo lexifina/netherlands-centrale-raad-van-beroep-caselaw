@@ -7,7 +7,7 @@ decided: "2026-04-08"
 published: "2026-04-15"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Bestuursrecht"
+subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:431"
 published_in: ["Rechtspraak.nl"]
 ---
