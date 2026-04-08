@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:443"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/140", "RSV 2026/108 met annotatie van J. van Helden"]
 ---
 
 # ECLI:NL:CRVB:2026:443 Centrale Raad van Beroep , 08-04-2026 / 24/1334 WIA
