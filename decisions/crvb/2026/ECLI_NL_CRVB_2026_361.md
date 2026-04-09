@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:361"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/121", "RSV 2026/123"]
 ---
 
 # ECLI:NL:CRVB:2026:361 Centrale Raad van Beroep , 09-04-2026 / 25/1529 TBSH
