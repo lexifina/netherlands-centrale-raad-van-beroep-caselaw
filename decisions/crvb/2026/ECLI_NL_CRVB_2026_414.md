@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:414"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/118", "RSV 2026/140"]
 ---
 
 # ECLI:NL:CRVB:2026:414 Centrale Raad van Beroep , 09-04-2026 / 24/2712 JW
