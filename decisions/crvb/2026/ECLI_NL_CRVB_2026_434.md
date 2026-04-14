@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:434"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/80"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:8339, Bekrachtiging/bevestiging"]]
 ---
 
