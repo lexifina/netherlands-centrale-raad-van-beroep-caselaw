@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:389"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/80"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Bestuursrecht 2026/80", "RSV 2026/73", "JWWB 2026/75", "NBR-Pw/2026/009 met annotatie van Wendy Pijnen", "USZ 2026/155 met annotatie van I.M. Lunenburg"]
 ---
 
 # ECLI:NL:CRVB:2026:389 Centrale Raad van Beroep , 14-04-2026 / 24/2320 PW
