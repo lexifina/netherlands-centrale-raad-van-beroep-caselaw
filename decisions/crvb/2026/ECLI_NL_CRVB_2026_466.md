@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:466"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "USZ 2026/141"]
 ---
 
 # ECLI:NL:CRVB:2026:466 Centrale Raad van Beroep , 15-04-2026 / 24/2125 WIA
