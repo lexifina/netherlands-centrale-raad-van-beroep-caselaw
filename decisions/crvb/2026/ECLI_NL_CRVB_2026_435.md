@@ -7,9 +7,9 @@ decided: "2026-04-15"
 published: "2026-04-16"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Bestuursrecht"
+subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:435"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TAR 2026/32"]
 ---
 
 # ECLI:NL:CRVB:2026:435 Centrale Raad van Beroep , 15-04-2026 / 24/1060 POL
