@@ -7,7 +7,7 @@ decided: "2026-04-16"
 published: "2026-04-16"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Bestuursrecht"
+subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:437"
 published_in: ["Rechtspraak.nl"]
 ---
