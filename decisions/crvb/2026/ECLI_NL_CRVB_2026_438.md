@@ -7,9 +7,9 @@ decided: "2026-04-16"
 published: "2026-04-16"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Bestuursrecht"
+subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CRVB:2026:438"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TAR 2026/33"]
 ---
 
 # ECLI:NL:CRVB:2026:438 Centrale Raad van Beroep , 16-04-2026 / 24/559 MPW
