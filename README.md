@@ -1,5 +1,7 @@
 # Dutch case law: Centrale Raad van Beroep
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Centrale Raad van Beroep, Netherlands, which global-law reads at `netherlands/centrale-raad-van-beroep/caselaw/`.
+
 Every decision of Centrale Raad van Beroep that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 86,834 decisions from 1970-03-26 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/centrale-raad-van-beroep/caselaw`.
